@@ -1,0 +1,2601 @@
+{
+  "pairs": {
+    "235463730327781@lid::25444074184705@lid": {
+      "users": [
+        "235463730327781@lid",
+        "25444074184705@lid"
+      ],
+      "status": "namoro",
+      "stages": {
+        "namoro": {
+          "since": "2026-03-22T20:10:00.659Z",
+          "requestedBy": "235463730327781@lid",
+          "acceptedBy": "25444074184705@lid",
+          "groupId": "120363424398263220@g.us",
+          "requestedAt": "2026-03-22T20:09:49.886Z",
+          "acceptedAt": "2026-03-22T20:10:00.659Z"
+        },
+        "brincadeira": {
+          "since": "2026-03-22T20:10:00.659Z",
+          "requestedBy": "235463730327781@lid",
+          "acceptedBy": "25444074184705@lid",
+          "groupId": "120363424398263220@g.us",
+          "requestedAt": "2026-03-22T20:09:49.886Z",
+          "acceptedAt": "2026-03-22T20:10:00.659Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "235463730327781@lid",
+          "acceptedBy": "25444074184705@lid",
+          "requestedAt": "2026-03-22T20:09:49.886Z",
+          "acceptedAt": "2026-03-22T20:10:00.659Z"
+        }
+      ],
+      "createdAt": "2026-03-22T20:10:00.659Z",
+      "updatedAt": "2026-03-22T20:10:00.659Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "namoro"
+    },
+    "13160182505500@lid::236472896606363@lid": {
+      "users": [
+        "236472896606363@lid",
+        "13160182505500@lid"
+      ],
+      "status": "namoro",
+      "stages": {
+        "namoro": {
+          "since": "2026-03-29T02:51:47.054Z",
+          "requestedBy": "236472896606363@lid",
+          "acceptedBy": "13160182505500@lid",
+          "groupId": "120363425504565519@g.us",
+          "requestedAt": "2026-03-29T02:51:38.805Z",
+          "acceptedAt": "2026-03-29T02:51:47.054Z"
+        },
+        "brincadeira": {
+          "since": "2026-03-29T02:51:47.054Z",
+          "requestedBy": "236472896606363@lid",
+          "acceptedBy": "13160182505500@lid",
+          "groupId": "120363425504565519@g.us",
+          "requestedAt": "2026-03-29T02:51:38.805Z",
+          "acceptedAt": "2026-03-29T02:51:47.054Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "236472896606363@lid",
+          "acceptedBy": "13160182505500@lid",
+          "requestedAt": "2026-03-29T02:51:38.805Z",
+          "acceptedAt": "2026-03-29T02:51:47.054Z"
+        }
+      ],
+      "createdAt": "2026-03-29T02:51:47.054Z",
+      "updatedAt": "2026-03-29T02:51:47.054Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "namoro"
+    },
+    "160074135797971@lid::183370004836495@lid": {
+      "users": [
+        "183370004836495@lid",
+        "160074135797971@lid"
+      ],
+      "status": "namoro",
+      "stages": {
+        "namoro": {
+          "since": "2026-03-29T03:18:23.957Z",
+          "requestedBy": "183370004836495@lid",
+          "acceptedBy": "160074135797971@lid",
+          "groupId": "120363401063228857@g.us",
+          "requestedAt": "2026-03-29T03:18:19.697Z",
+          "acceptedAt": "2026-03-29T03:18:23.957Z"
+        },
+        "brincadeira": {
+          "since": "2026-03-29T03:18:23.957Z",
+          "requestedBy": "183370004836495@lid",
+          "acceptedBy": "160074135797971@lid",
+          "groupId": "120363401063228857@g.us",
+          "requestedAt": "2026-03-29T03:18:19.697Z",
+          "acceptedAt": "2026-03-29T03:18:23.957Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "183370004836495@lid",
+          "acceptedBy": "160074135797971@lid",
+          "requestedAt": "2026-03-29T03:18:19.697Z",
+          "acceptedAt": "2026-03-29T03:18:23.957Z"
+        }
+      ],
+      "createdAt": "2026-03-29T03:18:23.957Z",
+      "updatedAt": "2026-03-29T03:18:23.957Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "namoro"
+    },
+    "145590969208904@lid::220353934704648@lid": {
+      "users": [
+        "145590969208904@lid",
+        "220353934704648@lid"
+      ],
+      "status": "namoro",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-01T18:33:24.971Z",
+          "requestedBy": "145590969208904@lid",
+          "acceptedBy": "220353934704648@lid",
+          "groupId": "120363401063228857@g.us",
+          "requestedAt": "2026-04-01T18:33:14.167Z",
+          "acceptedAt": "2026-04-01T18:33:24.971Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-01T18:33:24.971Z",
+          "requestedBy": "145590969208904@lid",
+          "acceptedBy": "220353934704648@lid",
+          "groupId": "120363401063228857@g.us",
+          "requestedAt": "2026-04-01T18:33:14.167Z",
+          "acceptedAt": "2026-04-01T18:33:24.971Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "145590969208904@lid",
+          "acceptedBy": "220353934704648@lid",
+          "requestedAt": "2026-04-01T18:33:14.167Z",
+          "acceptedAt": "2026-04-01T18:33:24.971Z"
+        }
+      ],
+      "createdAt": "2026-04-01T18:33:24.971Z",
+      "updatedAt": "2026-04-01T18:33:24.971Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "namoro"
+    },
+    "6902700335274@lid::93545008505031@lid": {
+      "users": [
+        "93545008505031@lid",
+        "6902700335274@lid"
+      ],
+      "status": "namoro",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-04T21:53:45.511Z",
+          "requestedBy": "93545008505031@lid",
+          "acceptedBy": "6902700335274@lid",
+          "groupId": "120363425504565519@g.us",
+          "requestedAt": "2026-04-04T21:53:39.852Z",
+          "acceptedAt": "2026-04-04T21:53:45.511Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-04T21:53:45.511Z",
+          "requestedBy": "93545008505031@lid",
+          "acceptedBy": "6902700335274@lid",
+          "groupId": "120363425504565519@g.us",
+          "requestedAt": "2026-04-04T21:53:39.852Z",
+          "acceptedAt": "2026-04-04T21:53:45.511Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "93545008505031@lid",
+          "acceptedBy": "6902700335274@lid",
+          "requestedAt": "2026-04-04T21:53:39.852Z",
+          "acceptedAt": "2026-04-04T21:53:45.511Z"
+        }
+      ],
+      "createdAt": "2026-04-04T21:53:45.511Z",
+      "updatedAt": "2026-04-04T21:53:45.511Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "namoro"
+    },
+    "118868185989370@lid::52540653760648@lid": {
+      "users": [
+        "52540653760648@lid",
+        "118868185989370@lid"
+      ],
+      "status": "namoro",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-08T01:23:58.769Z",
+          "requestedBy": "52540653760648@lid",
+          "acceptedBy": "118868185989370@lid",
+          "groupId": "120363425504565519@g.us",
+          "requestedAt": "2026-04-08T01:23:41.624Z",
+          "acceptedAt": "2026-04-08T01:23:58.769Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-08T01:23:58.769Z",
+          "requestedBy": "52540653760648@lid",
+          "acceptedBy": "118868185989370@lid",
+          "groupId": "120363425504565519@g.us",
+          "requestedAt": "2026-04-08T01:23:41.624Z",
+          "acceptedAt": "2026-04-08T01:23:58.769Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "52540653760648@lid",
+          "acceptedBy": "118868185989370@lid",
+          "requestedAt": "2026-04-08T01:23:41.624Z",
+          "acceptedAt": "2026-04-08T01:23:58.769Z"
+        }
+      ],
+      "createdAt": "2026-04-08T01:23:58.769Z",
+      "updatedAt": "2026-04-08T01:23:58.769Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "namoro"
+    },
+    "115573711216828@lid::57621935562772@lid": {
+      "users": [
+        "115573711216828@lid",
+        "57621935562772@lid"
+      ],
+      "status": "brincadeira",
+      "stages": {
+        "brincadeira": {
+          "since": "2026-04-14T19:26:52.838Z",
+          "requestedBy": "115573711216828@lid",
+          "acceptedBy": "57621935562772@lid",
+          "groupId": "120363425504565519@g.us",
+          "requestedAt": "2026-04-14T19:26:37.739Z",
+          "acceptedAt": "2026-04-14T19:26:52.838Z"
+        }
+      },
+      "history": [
+        {
+          "type": "brincadeira",
+          "requestedBy": "115573711216828@lid",
+          "acceptedBy": "57621935562772@lid",
+          "requestedAt": "2026-04-14T19:26:37.739Z",
+          "acceptedAt": "2026-04-14T19:26:52.838Z"
+        }
+      ],
+      "createdAt": "2026-04-14T19:26:52.838Z",
+      "updatedAt": "2026-04-14T19:26:52.838Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "brincadeira"
+    },
+    "172701004083342@lid::236283750301948@lid": {
+      "users": [
+        "236283750301948@lid",
+        "172701004083342@lid"
+      ],
+      "status": "namoro",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-15T17:07:14.341Z",
+          "requestedBy": "236283750301948@lid",
+          "acceptedBy": "172701004083342@lid",
+          "groupId": "120363408755337740@g.us",
+          "requestedAt": "2026-04-15T17:06:47.783Z",
+          "acceptedAt": "2026-04-15T17:07:14.341Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-15T17:07:14.341Z",
+          "requestedBy": "236283750301948@lid",
+          "acceptedBy": "172701004083342@lid",
+          "groupId": "120363408755337740@g.us",
+          "requestedAt": "2026-04-15T17:06:47.783Z",
+          "acceptedAt": "2026-04-15T17:07:14.341Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "236283750301948@lid",
+          "acceptedBy": "172701004083342@lid",
+          "requestedAt": "2026-04-15T17:06:47.783Z",
+          "acceptedAt": "2026-04-15T17:07:14.341Z"
+        }
+      ],
+      "createdAt": "2026-04-15T17:07:14.341Z",
+      "updatedAt": "2026-04-15T17:07:14.341Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "namoro"
+    },
+    "240518940328169@lid::98265278247078@lid": {
+      "users": [
+        "240518940328169@lid",
+        "98265278247078@lid"
+      ],
+      "status": "namoro",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-16T18:54:24.013Z",
+          "requestedBy": "240518940328169@lid",
+          "acceptedBy": "98265278247078@lid",
+          "groupId": "120363407678212501@g.us",
+          "requestedAt": "2026-04-16T18:54:19.101Z",
+          "acceptedAt": "2026-04-16T18:54:24.013Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-16T18:54:24.013Z",
+          "requestedBy": "240518940328169@lid",
+          "acceptedBy": "98265278247078@lid",
+          "groupId": "120363407678212501@g.us",
+          "requestedAt": "2026-04-16T18:54:19.101Z",
+          "acceptedAt": "2026-04-16T18:54:24.013Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "240518940328169@lid",
+          "acceptedBy": "98265278247078@lid",
+          "requestedAt": "2026-04-16T18:54:19.101Z",
+          "acceptedAt": "2026-04-16T18:54:24.013Z"
+        }
+      ],
+      "createdAt": "2026-04-16T18:54:24.013Z",
+      "updatedAt": "2026-04-16T18:54:24.013Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "namoro"
+    },
+    "7984763691069@lid::95482156191992@lid": {
+      "users": [
+        "7984763691069@lid",
+        "95482156191992@lid"
+      ],
+      "status": "namoro",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-18T17:27:44.834Z",
+          "requestedBy": "7984763691069@lid",
+          "acceptedBy": "95482156191992@lid",
+          "groupId": "120363425504565519@g.us",
+          "requestedAt": "2026-04-18T17:26:56.086Z",
+          "acceptedAt": "2026-04-18T17:27:44.834Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-18T17:27:44.834Z",
+          "requestedBy": "7984763691069@lid",
+          "acceptedBy": "95482156191992@lid",
+          "groupId": "120363425504565519@g.us",
+          "requestedAt": "2026-04-18T17:26:56.086Z",
+          "acceptedAt": "2026-04-18T17:27:44.834Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "7984763691069@lid",
+          "acceptedBy": "95482156191992@lid",
+          "requestedAt": "2026-04-18T17:26:56.086Z",
+          "acceptedAt": "2026-04-18T17:27:44.834Z"
+        }
+      ],
+      "createdAt": "2026-04-18T17:27:44.834Z",
+      "updatedAt": "2026-04-18T17:27:44.834Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "namoro"
+    },
+    "237748233465866@lid::32143753392164@lid": {
+      "users": [
+        "32143753392164@lid",
+        "237748233465866@lid"
+      ],
+      "status": "namoro",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-19T03:09:03.557Z",
+          "requestedBy": "32143753392164@lid",
+          "acceptedBy": "237748233465866@lid",
+          "groupId": "120363407240419674@g.us",
+          "requestedAt": "2026-04-19T03:08:49.077Z",
+          "acceptedAt": "2026-04-19T03:09:03.557Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-19T03:09:03.557Z",
+          "requestedBy": "32143753392164@lid",
+          "acceptedBy": "237748233465866@lid",
+          "groupId": "120363407240419674@g.us",
+          "requestedAt": "2026-04-19T03:08:49.077Z",
+          "acceptedAt": "2026-04-19T03:09:03.557Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "32143753392164@lid",
+          "acceptedBy": "237748233465866@lid",
+          "requestedAt": "2026-04-19T03:08:49.077Z",
+          "acceptedAt": "2026-04-19T03:09:03.557Z"
+        }
+      ],
+      "createdAt": "2026-04-19T03:09:03.557Z",
+      "updatedAt": "2026-04-19T03:09:03.557Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "namoro"
+    },
+    "124653490184352@lid::9595661594873@lid": {
+      "users": [
+        "124653490184352@lid",
+        "9595661594873@lid"
+      ],
+      "status": "namoro",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-21T00:09:50.891Z",
+          "requestedBy": "124653490184352@lid",
+          "acceptedBy": "9595661594873@lid",
+          "groupId": "120363407240419674@g.us",
+          "requestedAt": "2026-04-21T00:09:45.443Z",
+          "acceptedAt": "2026-04-21T00:09:50.891Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-21T00:09:50.891Z",
+          "requestedBy": "124653490184352@lid",
+          "acceptedBy": "9595661594873@lid",
+          "groupId": "120363407240419674@g.us",
+          "requestedAt": "2026-04-21T00:09:45.443Z",
+          "acceptedAt": "2026-04-21T00:09:50.891Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "124653490184352@lid",
+          "acceptedBy": "9595661594873@lid",
+          "requestedAt": "2026-04-21T00:09:45.443Z",
+          "acceptedAt": "2026-04-21T00:09:50.891Z"
+        }
+      ],
+      "createdAt": "2026-04-21T00:09:50.891Z",
+      "updatedAt": "2026-04-21T00:09:50.891Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "namoro"
+    },
+    "22484304838685@lid::23627353325784@lid": {
+      "users": [
+        "23627353325784@lid",
+        "22484304838685@lid"
+      ],
+      "status": "namoro",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-26T13:50:15.595Z",
+          "requestedBy": "23627353325784@lid",
+          "acceptedBy": "22484304838685@lid",
+          "groupId": "120363425710341429@g.us",
+          "requestedAt": "2026-04-26T13:50:06.040Z",
+          "acceptedAt": "2026-04-26T13:50:15.595Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-26T13:50:15.595Z",
+          "requestedBy": "23627353325784@lid",
+          "acceptedBy": "22484304838685@lid",
+          "groupId": "120363425710341429@g.us",
+          "requestedAt": "2026-04-26T13:50:06.040Z",
+          "acceptedAt": "2026-04-26T13:50:15.595Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "23627353325784@lid",
+          "acceptedBy": "22484304838685@lid",
+          "requestedAt": "2026-04-26T13:50:06.040Z",
+          "acceptedAt": "2026-04-26T13:50:15.595Z"
+        }
+      ],
+      "createdAt": "2026-04-26T13:50:15.595Z",
+      "updatedAt": "2026-04-26T13:50:15.595Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "namoro"
+    },
+    "134703092883477@lid::137868987097117@lid": {
+      "users": [
+        "137868987097117@lid",
+        "134703092883477@lid"
+      ],
+      "status": "namoro",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-28T14:56:14.441Z",
+          "requestedBy": "137868987097117@lid",
+          "acceptedBy": "134703092883477@lid",
+          "groupId": "120363425710341429@g.us",
+          "requestedAt": "2026-04-28T14:56:06.224Z",
+          "acceptedAt": "2026-04-28T14:56:14.441Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-28T14:56:14.441Z",
+          "requestedBy": "137868987097117@lid",
+          "acceptedBy": "134703092883477@lid",
+          "groupId": "120363425710341429@g.us",
+          "requestedAt": "2026-04-28T14:56:06.224Z",
+          "acceptedAt": "2026-04-28T14:56:14.441Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "137868987097117@lid",
+          "acceptedBy": "134703092883477@lid",
+          "requestedAt": "2026-04-28T14:56:06.224Z",
+          "acceptedAt": "2026-04-28T14:56:14.441Z"
+        }
+      ],
+      "createdAt": "2026-04-28T14:56:14.441Z",
+      "updatedAt": "2026-04-28T14:56:14.441Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "namoro"
+    },
+    "149504338735178@lid::41829340868827@lid": {
+      "users": [
+        "41829340868827@lid",
+        "149504338735178@lid"
+      ],
+      "status": "namoro",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-29T20:22:51.312Z",
+          "requestedBy": "41829340868827@lid",
+          "acceptedBy": "149504338735178@lid",
+          "groupId": "120363425710341429@g.us",
+          "requestedAt": "2026-04-29T20:22:34.307Z",
+          "acceptedAt": "2026-04-29T20:22:51.312Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-29T20:22:51.312Z",
+          "requestedBy": "41829340868827@lid",
+          "acceptedBy": "149504338735178@lid",
+          "groupId": "120363425710341429@g.us",
+          "requestedAt": "2026-04-29T20:22:34.307Z",
+          "acceptedAt": "2026-04-29T20:22:51.312Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "41829340868827@lid",
+          "acceptedBy": "149504338735178@lid",
+          "requestedAt": "2026-04-29T20:22:34.307Z",
+          "acceptedAt": "2026-04-29T20:22:51.312Z"
+        }
+      ],
+      "createdAt": "2026-04-29T20:22:51.312Z",
+      "updatedAt": "2026-04-29T20:22:51.312Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "namoro"
+    },
+    "182738627903610@lid::225915967635468@lid": {
+      "users": [
+        "225915967635468@lid",
+        "182738627903610@lid"
+      ],
+      "status": "namoro",
+      "stages": {
+        "namoro": {
+          "since": "2026-05-08T22:58:56.659Z",
+          "requestedBy": "225915967635468@lid",
+          "acceptedBy": "182738627903610@lid",
+          "groupId": "120363405037349244@g.us",
+          "requestedAt": "2026-05-08T22:58:34.372Z",
+          "acceptedAt": "2026-05-08T22:58:56.659Z"
+        },
+        "brincadeira": {
+          "since": "2026-05-08T22:58:56.659Z",
+          "requestedBy": "225915967635468@lid",
+          "acceptedBy": "182738627903610@lid",
+          "groupId": "120363405037349244@g.us",
+          "requestedAt": "2026-05-08T22:58:34.372Z",
+          "acceptedAt": "2026-05-08T22:58:56.659Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "225915967635468@lid",
+          "acceptedBy": "182738627903610@lid",
+          "requestedAt": "2026-05-08T22:58:34.372Z",
+          "acceptedAt": "2026-05-08T22:58:56.659Z"
+        }
+      ],
+      "createdAt": "2026-05-08T22:58:56.659Z",
+      "updatedAt": "2026-05-08T22:58:56.659Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "namoro"
+    },
+    "204698627870954@lid::45033000542413@lid": {
+      "users": [
+        "45033000542413@lid",
+        "204698627870954@lid"
+      ],
+      "status": "namoro",
+      "stages": {
+        "namoro": {
+          "since": "2026-05-18T00:48:29.134Z",
+          "requestedBy": "45033000542413@lid",
+          "acceptedBy": "204698627870954@lid",
+          "groupId": "120363409004817057@g.us",
+          "requestedAt": "2026-05-18T00:48:02.012Z",
+          "acceptedAt": "2026-05-18T00:48:29.134Z"
+        },
+        "brincadeira": {
+          "since": "2026-05-18T00:48:29.134Z",
+          "requestedBy": "45033000542413@lid",
+          "acceptedBy": "204698627870954@lid",
+          "groupId": "120363409004817057@g.us",
+          "requestedAt": "2026-05-18T00:48:02.012Z",
+          "acceptedAt": "2026-05-18T00:48:29.134Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "45033000542413@lid",
+          "acceptedBy": "204698627870954@lid",
+          "requestedAt": "2026-05-18T00:48:02.012Z",
+          "acceptedAt": "2026-05-18T00:48:29.134Z"
+        }
+      ],
+      "createdAt": "2026-05-18T00:48:29.134Z",
+      "updatedAt": "2026-05-18T00:48:29.134Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "namoro"
+    },
+    "157613136326900@lid::255594191691893@lid": {
+      "users": [
+        "157613136326900@lid",
+        "255594191691893@lid"
+      ],
+      "status": "namoro",
+      "stages": {
+        "namoro": {
+          "since": "2026-05-18T20:55:53.593Z",
+          "requestedBy": "157613136326900@lid",
+          "acceptedBy": "255594191691893@lid",
+          "groupId": "120363425710341429@g.us",
+          "requestedAt": "2026-05-18T20:55:37.429Z",
+          "acceptedAt": "2026-05-18T20:55:53.593Z"
+        },
+        "brincadeira": {
+          "since": "2026-05-18T20:55:53.593Z",
+          "requestedBy": "157613136326900@lid",
+          "acceptedBy": "255594191691893@lid",
+          "groupId": "120363425710341429@g.us",
+          "requestedAt": "2026-05-18T20:55:37.429Z",
+          "acceptedAt": "2026-05-18T20:55:53.593Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "157613136326900@lid",
+          "acceptedBy": "255594191691893@lid",
+          "requestedAt": "2026-05-18T20:55:37.429Z",
+          "acceptedAt": "2026-05-18T20:55:53.593Z"
+        }
+      ],
+      "createdAt": "2026-05-18T20:55:53.593Z",
+      "updatedAt": "2026-05-18T20:55:53.593Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "namoro"
+    },
+    "30756780904629@lid::365273563198@lid": {
+      "users": [
+        "365273563198@lid",
+        "30756780904629@lid"
+      ],
+      "status": "namoro",
+      "stages": {
+        "namoro": {
+          "since": "2026-05-19T16:40:50.140Z",
+          "requestedBy": "365273563198@lid",
+          "acceptedBy": "30756780904629@lid",
+          "groupId": "120363409004817057@g.us",
+          "requestedAt": "2026-05-19T16:40:43.269Z",
+          "acceptedAt": "2026-05-19T16:40:50.140Z"
+        },
+        "brincadeira": {
+          "since": "2026-05-19T16:40:50.140Z",
+          "requestedBy": "365273563198@lid",
+          "acceptedBy": "30756780904629@lid",
+          "groupId": "120363409004817057@g.us",
+          "requestedAt": "2026-05-19T16:40:43.269Z",
+          "acceptedAt": "2026-05-19T16:40:50.140Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "365273563198@lid",
+          "acceptedBy": "30756780904629@lid",
+          "requestedAt": "2026-05-19T16:40:43.269Z",
+          "acceptedAt": "2026-05-19T16:40:50.140Z"
+        }
+      ],
+      "createdAt": "2026-05-19T16:40:50.140Z",
+      "updatedAt": "2026-05-19T16:40:50.140Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "namoro"
+    },
+    "206369152098345@lid::53507373719738@lid": {
+      "users": [
+        "53507373719738@lid",
+        "206369152098345@lid"
+      ],
+      "status": "casamento",
+      "stages": {
+        "namoro": {
+          "since": "2026-05-29T16:25:39.117Z",
+          "requestedBy": "53507373719738@lid",
+          "acceptedBy": "206369152098345@lid",
+          "groupId": "120363409369331131@g.us",
+          "requestedAt": "2026-05-29T16:24:58.928Z",
+          "acceptedAt": "2026-05-29T16:25:39.117Z"
+        },
+        "brincadeira": {
+          "since": "2026-05-29T16:25:39.117Z",
+          "requestedBy": "53507373719738@lid",
+          "acceptedBy": "206369152098345@lid",
+          "groupId": "120363409369331131@g.us",
+          "requestedAt": "2026-05-29T16:24:58.928Z",
+          "acceptedAt": "2026-05-29T16:25:39.117Z"
+        },
+        "casamento": {
+          "since": "2026-06-01T00:18:12.444Z",
+          "requestedBy": "53507373719738@lid",
+          "acceptedBy": "206369152098345@lid",
+          "groupId": "120363409369331131@g.us",
+          "requestedAt": "2026-06-01T00:17:01.703Z",
+          "acceptedAt": "2026-06-01T00:18:12.444Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "53507373719738@lid",
+          "acceptedBy": "206369152098345@lid",
+          "requestedAt": "2026-05-29T16:24:58.928Z",
+          "acceptedAt": "2026-05-29T16:25:39.117Z"
+        },
+        {
+          "type": "casamento",
+          "requestedBy": "53507373719738@lid",
+          "acceptedBy": "206369152098345@lid",
+          "requestedAt": "2026-06-01T00:17:01.703Z",
+          "acceptedAt": "2026-06-01T00:18:12.444Z"
+        }
+      ],
+      "createdAt": "2026-05-29T16:25:39.117Z",
+      "updatedAt": "2026-06-01T00:18:12.444Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "casamento"
+    },
+    "224802950353146@lid::238327970193632@lid": {
+      "users": [
+        "224802950353146@lid",
+        "238327970193632@lid"
+      ],
+      "status": "casamento",
+      "stages": {
+        "namoro": {
+          "since": "2026-05-29T19:44:58.735Z",
+          "requestedBy": "224802950353146@lid",
+          "acceptedBy": "238327970193632@lid",
+          "groupId": "120363409369331131@g.us",
+          "requestedAt": "2026-05-29T19:44:45.125Z",
+          "acceptedAt": "2026-05-29T19:44:58.735Z"
+        },
+        "brincadeira": {
+          "since": "2026-05-29T19:44:58.735Z",
+          "requestedBy": "224802950353146@lid",
+          "acceptedBy": "238327970193632@lid",
+          "groupId": "120363409369331131@g.us",
+          "requestedAt": "2026-05-29T19:44:45.125Z",
+          "acceptedAt": "2026-05-29T19:44:58.735Z"
+        },
+        "casamento": {
+          "since": "2026-06-01T00:16:50.525Z",
+          "requestedBy": "224802950353146@lid",
+          "acceptedBy": "238327970193632@lid",
+          "groupId": "120363409369331131@g.us",
+          "requestedAt": "2026-06-01T00:16:43.274Z",
+          "acceptedAt": "2026-06-01T00:16:50.525Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "224802950353146@lid",
+          "acceptedBy": "238327970193632@lid",
+          "requestedAt": "2026-05-29T19:44:45.125Z",
+          "acceptedAt": "2026-05-29T19:44:58.735Z"
+        },
+        {
+          "type": "casamento",
+          "requestedBy": "224802950353146@lid",
+          "acceptedBy": "238327970193632@lid",
+          "requestedAt": "2026-06-01T00:16:43.274Z",
+          "acceptedAt": "2026-06-01T00:16:50.525Z"
+        }
+      ],
+      "createdAt": "2026-05-29T19:44:58.735Z",
+      "updatedAt": "2026-06-01T00:16:50.525Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "casamento"
+    },
+    "119168397537468@lid::121157336473659@lid": {
+      "users": [
+        "119168397537468@lid",
+        "121157336473659@lid"
+      ],
+      "status": "namoro",
+      "stages": {
+        "namoro": {
+          "since": "2026-05-31T21:19:11.011Z",
+          "requestedBy": "119168397537468@lid",
+          "acceptedBy": "121157336473659@lid",
+          "groupId": "120363409004817057@g.us",
+          "requestedAt": "2026-05-31T21:18:56.299Z",
+          "acceptedAt": "2026-05-31T21:19:11.011Z"
+        },
+        "brincadeira": {
+          "since": "2026-05-31T21:19:11.011Z",
+          "requestedBy": "119168397537468@lid",
+          "acceptedBy": "121157336473659@lid",
+          "groupId": "120363409004817057@g.us",
+          "requestedAt": "2026-05-31T21:18:56.299Z",
+          "acceptedAt": "2026-05-31T21:19:11.011Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "119168397537468@lid",
+          "acceptedBy": "121157336473659@lid",
+          "requestedAt": "2026-05-31T21:18:56.299Z",
+          "acceptedAt": "2026-05-31T21:19:11.011Z"
+        }
+      ],
+      "createdAt": "2026-05-31T21:19:11.011Z",
+      "updatedAt": "2026-05-31T21:19:11.011Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "namoro"
+    },
+    "147313670492328@lid::40862989959249@lid": {
+      "users": [
+        "40862989959249@lid",
+        "147313670492328@lid"
+      ],
+      "status": "casamento",
+      "stages": {
+        "namoro": {
+          "since": "2026-07-08T20:23:36.202Z",
+          "requestedBy": "40862989959249@lid",
+          "acceptedBy": "147313670492328@lid",
+          "groupId": "120363428975360415@g.us",
+          "requestedAt": "2026-07-08T20:22:54.054Z",
+          "acceptedAt": "2026-07-08T20:23:36.202Z"
+        },
+        "brincadeira": {
+          "since": "2026-07-08T20:23:36.202Z",
+          "requestedBy": "40862989959249@lid",
+          "acceptedBy": "147313670492328@lid",
+          "groupId": "120363428975360415@g.us",
+          "requestedAt": "2026-07-08T20:22:54.054Z",
+          "acceptedAt": "2026-07-08T20:23:36.202Z"
+        },
+        "casamento": {
+          "since": "2026-07-11T01:59:09.353Z",
+          "requestedBy": "40862989959249@lid",
+          "acceptedBy": "147313670492328@lid",
+          "groupId": "120363428975360415@g.us",
+          "requestedAt": "2026-07-11T01:59:00.685Z",
+          "acceptedAt": "2026-07-11T01:59:09.353Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "40862989959249@lid",
+          "acceptedBy": "147313670492328@lid",
+          "requestedAt": "2026-07-08T20:22:54.054Z",
+          "acceptedAt": "2026-07-08T20:23:36.202Z"
+        },
+        {
+          "type": "traicao",
+          "traitor": "147313670492328@lid",
+          "victim": "40862989959249@lid",
+          "accomplice": "147717313589402@lid",
+          "date": "2026-07-08T22:24:06.180Z",
+          "groupId": "120363428975360415@g.us",
+          "previousStatus": "namoro"
+        },
+        {
+          "type": "traicao",
+          "traitor": "147313670492328@lid",
+          "victim": "40862989959249@lid",
+          "accomplice": "147717313589402@lid",
+          "date": "2026-07-08T22:26:54.011Z",
+          "groupId": "120363428975360415@g.us",
+          "previousStatus": "namoro"
+        },
+        {
+          "type": "traicao",
+          "traitor": "147313670492328@lid",
+          "victim": "40862989959249@lid",
+          "accomplice": "101490714775573@lid",
+          "date": "2026-07-09T11:32:41.341Z",
+          "groupId": "120363428975360415@g.us",
+          "previousStatus": "namoro"
+        },
+        {
+          "type": "traicao",
+          "traitor": "147313670492328@lid",
+          "victim": "40862989959249@lid",
+          "accomplice": "147717313589402@lid",
+          "date": "2026-07-09T11:39:34.715Z",
+          "groupId": "120363428975360415@g.us",
+          "previousStatus": "namoro"
+        },
+        {
+          "type": "traicao",
+          "traitor": "147313670492328@lid",
+          "victim": "40862989959249@lid",
+          "accomplice": "54774456131768@lid",
+          "date": "2026-07-09T20:28:06.187Z",
+          "groupId": "120363428975360415@g.us",
+          "previousStatus": "namoro"
+        },
+        {
+          "type": "traicao",
+          "traitor": "147313670492328@lid",
+          "victim": "40862989959249@lid",
+          "accomplice": "147717313589402@lid",
+          "date": "2026-07-09T20:29:33.848Z",
+          "groupId": "120363428975360415@g.us",
+          "previousStatus": "namoro"
+        },
+        {
+          "type": "traicao",
+          "traitor": "147313670492328@lid",
+          "victim": "40862989959249@lid",
+          "accomplice": "147717313589402@lid",
+          "date": "2026-07-09T20:35:02.161Z",
+          "groupId": "120363428975360415@g.us",
+          "previousStatus": "namoro"
+        },
+        {
+          "type": "traicao",
+          "traitor": "147313670492328@lid",
+          "victim": "40862989959249@lid",
+          "accomplice": "147717313589402@lid",
+          "date": "2026-07-09T22:16:23.433Z",
+          "groupId": "120363428975360415@g.us",
+          "previousStatus": "namoro"
+        },
+        {
+          "type": "traicao",
+          "traitor": "147313670492328@lid",
+          "victim": "40862989959249@lid",
+          "accomplice": "83142681583785@lid",
+          "date": "2026-07-09T23:03:17.963Z",
+          "groupId": "120363428975360415@g.us",
+          "previousStatus": "namoro"
+        },
+        {
+          "type": "casamento",
+          "requestedBy": "40862989959249@lid",
+          "acceptedBy": "147313670492328@lid",
+          "requestedAt": "2026-07-11T01:59:00.685Z",
+          "acceptedAt": "2026-07-11T01:59:09.353Z"
+        },
+        {
+          "type": "traicao",
+          "traitor": "147313670492328@lid",
+          "victim": "40862989959249@lid",
+          "accomplice": "113065282523309@lid",
+          "date": "2026-07-13T02:23:10.054Z",
+          "groupId": "120363428975360415@g.us",
+          "previousStatus": "casamento"
+        },
+        {
+          "type": "traicao",
+          "traitor": "147313670492328@lid",
+          "victim": "40862989959249@lid",
+          "accomplice": "192960448725177@lid",
+          "date": "2026-07-13T02:35:09.803Z",
+          "groupId": "120363428975360415@g.us",
+          "previousStatus": "casamento"
+        },
+        {
+          "type": "traicao",
+          "traitor": "147313670492328@lid",
+          "victim": "40862989959249@lid",
+          "accomplice": "192960448725177@lid",
+          "date": "2026-07-13T23:37:47.807Z",
+          "groupId": "120363428975360415@g.us",
+          "previousStatus": "casamento"
+        }
+      ],
+      "createdAt": "2026-07-08T20:23:36.202Z",
+      "updatedAt": "2026-07-11T01:59:09.353Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "casamento",
+      "betrayals": {
+        "147313670492328@lid": 12,
+        "40862989959249@lid": 0
+      },
+      "lastBetrayal": {
+        "date": "2026-07-13T23:37:47.807Z",
+        "traitor": "147313670492328@lid",
+        "victim": "40862989959249@lid",
+        "accomplice": "192960448725177@lid"
+      }
+    },
+    "248782239318133@lid::51823427772501@lid": {
+      "users": [
+        "51823427772501@lid",
+        "248782239318133@lid"
+      ],
+      "status": "namoro",
+      "stages": {
+        "namoro": {
+          "since": "2026-07-18T23:07:39.934Z",
+          "requestedBy": "51823427772501@lid",
+          "acceptedBy": "248782239318133@lid",
+          "groupId": "120363427451193446@g.us",
+          "requestedAt": "2026-07-18T23:07:32.600Z",
+          "acceptedAt": "2026-07-18T23:07:39.934Z"
+        },
+        "brincadeira": {
+          "since": "2026-07-18T23:07:39.934Z",
+          "requestedBy": "51823427772501@lid",
+          "acceptedBy": "248782239318133@lid",
+          "groupId": "120363427451193446@g.us",
+          "requestedAt": "2026-07-18T23:07:32.600Z",
+          "acceptedAt": "2026-07-18T23:07:39.934Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "51823427772501@lid",
+          "acceptedBy": "248782239318133@lid",
+          "requestedAt": "2026-07-18T23:07:32.600Z",
+          "acceptedAt": "2026-07-18T23:07:39.934Z"
+        }
+      ],
+      "createdAt": "2026-07-18T23:07:39.934Z",
+      "updatedAt": "2026-07-18T23:07:39.934Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "namoro"
+    },
+    "184748471271501@lid::205270143770741@lid": {
+      "users": [
+        "184748471271501@lid",
+        "205270143770741@lid"
+      ],
+      "status": "namoro",
+      "stages": {
+        "namoro": {
+          "since": "2026-07-25T04:31:30.690Z",
+          "requestedBy": "184748471271501@lid",
+          "acceptedBy": "205270143770741@lid",
+          "groupId": "120363427764883757@g.us",
+          "requestedAt": "2026-07-25T04:30:34.502Z",
+          "acceptedAt": "2026-07-25T04:31:30.690Z"
+        },
+        "brincadeira": {
+          "since": "2026-07-25T04:31:30.690Z",
+          "requestedBy": "184748471271501@lid",
+          "acceptedBy": "205270143770741@lid",
+          "groupId": "120363427764883757@g.us",
+          "requestedAt": "2026-07-25T04:30:34.502Z",
+          "acceptedAt": "2026-07-25T04:31:30.690Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "184748471271501@lid",
+          "acceptedBy": "205270143770741@lid",
+          "requestedAt": "2026-07-25T04:30:34.502Z",
+          "acceptedAt": "2026-07-25T04:31:30.690Z"
+        }
+      ],
+      "createdAt": "2026-07-25T04:31:30.690Z",
+      "updatedAt": "2026-07-25T04:31:30.690Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "namoro"
+    },
+    "19899304910871@lid::58901533876386@lid": {
+      "users": [
+        "58901533876386@lid",
+        "19899304910871@lid"
+      ],
+      "status": "namoro",
+      "stages": {
+        "namoro": {
+          "since": "2026-07-25T04:31:52.294Z",
+          "requestedBy": "58901533876386@lid",
+          "acceptedBy": "19899304910871@lid",
+          "groupId": "120363427764883757@g.us",
+          "requestedAt": "2026-07-25T04:31:37.909Z",
+          "acceptedAt": "2026-07-25T04:31:52.294Z"
+        },
+        "brincadeira": {
+          "since": "2026-07-25T04:31:52.294Z",
+          "requestedBy": "58901533876386@lid",
+          "acceptedBy": "19899304910871@lid",
+          "groupId": "120363427764883757@g.us",
+          "requestedAt": "2026-07-25T04:31:37.909Z",
+          "acceptedAt": "2026-07-25T04:31:52.294Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "58901533876386@lid",
+          "acceptedBy": "19899304910871@lid",
+          "requestedAt": "2026-07-25T04:31:37.909Z",
+          "acceptedAt": "2026-07-25T04:31:52.294Z"
+        }
+      ],
+      "createdAt": "2026-07-25T04:31:52.294Z",
+      "updatedAt": "2026-07-25T04:31:52.294Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "namoro"
+    },
+    "147129037250812@lid::89674672521367@lid": {
+      "users": [
+        "89674672521367@lid",
+        "147129037250812@lid"
+      ],
+      "status": "namoro",
+      "stages": {
+        "namoro": {
+          "since": "2026-07-31T21:57:30.799Z",
+          "requestedBy": "89674672521367@lid",
+          "acceptedBy": "147129037250812@lid",
+          "groupId": "120363409004817057@g.us",
+          "requestedAt": "2026-07-31T21:56:47.848Z",
+          "acceptedAt": "2026-07-31T21:57:30.799Z"
+        },
+        "brincadeira": {
+          "since": "2026-07-31T21:57:30.799Z",
+          "requestedBy": "89674672521367@lid",
+          "acceptedBy": "147129037250812@lid",
+          "groupId": "120363409004817057@g.us",
+          "requestedAt": "2026-07-31T21:56:47.848Z",
+          "acceptedAt": "2026-07-31T21:57:30.799Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "89674672521367@lid",
+          "acceptedBy": "147129037250812@lid",
+          "requestedAt": "2026-07-31T21:56:47.848Z",
+          "acceptedAt": "2026-07-31T21:57:30.799Z"
+        }
+      ],
+      "createdAt": "2026-07-31T21:57:30.799Z",
+      "updatedAt": "2026-07-31T21:57:30.799Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "namoro"
+    },
+    "25886472585277@lid::79741033918503@lid": {
+      "users": [
+        "25886472585277@lid",
+        "79741033918503@lid"
+      ],
+      "status": "namoro",
+      "stages": {
+        "namoro": {
+          "since": "2026-08-03T04:05:25.675Z",
+          "requestedBy": "25886472585277@lid",
+          "acceptedBy": "79741033918503@lid",
+          "groupId": "120363429302806172@g.us",
+          "requestedAt": "2026-08-03T04:04:56.466Z",
+          "acceptedAt": "2026-08-03T04:05:25.675Z"
+        },
+        "brincadeira": {
+          "since": "2026-08-03T04:05:25.675Z",
+          "requestedBy": "25886472585277@lid",
+          "acceptedBy": "79741033918503@lid",
+          "groupId": "120363429302806172@g.us",
+          "requestedAt": "2026-08-03T04:04:56.466Z",
+          "acceptedAt": "2026-08-03T04:05:25.675Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "25886472585277@lid",
+          "acceptedBy": "79741033918503@lid",
+          "requestedAt": "2026-08-03T04:04:56.466Z",
+          "acceptedAt": "2026-08-03T04:05:25.675Z"
+        }
+      ],
+      "createdAt": "2026-08-03T04:05:25.675Z",
+      "updatedAt": "2026-08-03T04:05:25.675Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "namoro"
+    }
+  },
+  "archived": [
+    {
+      "users": [
+        "217059761852543@lid",
+        "31594366644272@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-01T22:13:23.816Z",
+          "requestedBy": "217059761852543@lid",
+          "acceptedBy": "31594366644272@lid",
+          "groupId": "120363401063228857@g.us",
+          "requestedAt": "2026-04-01T22:13:21.263Z",
+          "acceptedAt": "2026-04-01T22:13:23.816Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-01T22:13:23.816Z",
+          "requestedBy": "217059761852543@lid",
+          "acceptedBy": "31594366644272@lid",
+          "groupId": "120363401063228857@g.us",
+          "requestedAt": "2026-04-01T22:13:21.263Z",
+          "acceptedAt": "2026-04-01T22:13:23.816Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "217059761852543@lid",
+          "acceptedBy": "31594366644272@lid",
+          "requestedAt": "2026-04-01T22:13:21.263Z",
+          "acceptedAt": "2026-04-01T22:13:23.816Z"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "namoro",
+          "triggeredBy": "31594366644272@lid",
+          "endedAt": "2026-04-05T22:49:59.654Z"
+        }
+      ],
+      "createdAt": "2026-04-01T22:13:23.816Z",
+      "updatedAt": "2026-04-01T22:13:23.816Z",
+      "terminatedAt": "2026-04-05T22:49:59.654Z",
+      "terminatedBy": "31594366644272@lid",
+      "lastStatus": "namoro",
+      "finalStatus": "namoro"
+    },
+    {
+      "users": [
+        "120092268458106@lid",
+        "98858084388864@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-03T22:18:05.052Z",
+          "requestedBy": "120092268458106@lid",
+          "acceptedBy": "98858084388864@lid",
+          "groupId": "120363407240419674@g.us",
+          "requestedAt": "2026-04-03T22:17:44.909Z",
+          "acceptedAt": "2026-04-03T22:18:05.052Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-03T22:18:05.052Z",
+          "requestedBy": "120092268458106@lid",
+          "acceptedBy": "98858084388864@lid",
+          "groupId": "120363407240419674@g.us",
+          "requestedAt": "2026-04-03T22:17:44.909Z",
+          "acceptedAt": "2026-04-03T22:18:05.052Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "120092268458106@lid",
+          "acceptedBy": "98858084388864@lid",
+          "requestedAt": "2026-04-03T22:17:44.909Z",
+          "acceptedAt": "2026-04-03T22:18:05.052Z"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "namoro",
+          "triggeredBy": "98858084388864@lid",
+          "endedAt": "2026-04-07T11:44:05.710Z"
+        }
+      ],
+      "createdAt": "2026-04-03T22:18:05.052Z",
+      "updatedAt": "2026-04-03T22:18:05.052Z",
+      "terminatedAt": "2026-04-07T11:44:05.710Z",
+      "terminatedBy": "98858084388864@lid",
+      "lastStatus": "namoro",
+      "finalStatus": "namoro"
+    },
+    {
+      "users": [
+        "236283750301948@lid",
+        "31594366644272@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-05T22:57:51.411Z",
+          "requestedBy": "31594366644272@lid",
+          "acceptedBy": "236283750301948@lid",
+          "groupId": "120363425513347035@g.us",
+          "requestedAt": "2026-04-05T22:57:37.960Z",
+          "acceptedAt": "2026-04-05T22:57:51.411Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-05T22:57:51.411Z",
+          "requestedBy": "31594366644272@lid",
+          "acceptedBy": "236283750301948@lid",
+          "groupId": "120363425513347035@g.us",
+          "requestedAt": "2026-04-05T22:57:37.960Z",
+          "acceptedAt": "2026-04-05T22:57:51.411Z"
+        },
+        "casamento": {
+          "since": "2026-04-09T00:38:17.413Z",
+          "requestedBy": "236283750301948@lid",
+          "acceptedBy": "31594366644272@lid",
+          "groupId": "120363424778553796@g.us",
+          "requestedAt": "2026-04-09T00:38:13.440Z",
+          "acceptedAt": "2026-04-09T00:38:17.413Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "31594366644272@lid",
+          "acceptedBy": "236283750301948@lid",
+          "requestedAt": "2026-04-05T22:57:37.960Z",
+          "acceptedAt": "2026-04-05T22:57:51.411Z"
+        },
+        {
+          "type": "casamento",
+          "requestedBy": "236283750301948@lid",
+          "acceptedBy": "31594366644272@lid",
+          "requestedAt": "2026-04-09T00:38:13.440Z",
+          "acceptedAt": "2026-04-09T00:38:17.413Z"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "casamento",
+          "triggeredBy": "31594366644272@lid",
+          "endedAt": "2026-04-14T14:21:43.190Z"
+        }
+      ],
+      "createdAt": "2026-04-05T22:57:51.411Z",
+      "updatedAt": "2026-04-09T00:38:17.413Z",
+      "terminatedAt": "2026-04-14T14:21:43.190Z",
+      "terminatedBy": "31594366644272@lid",
+      "lastStatus": "casamento",
+      "finalStatus": "casamento"
+    },
+    {
+      "users": [
+        "56706990080029@lid",
+        "151333776699455@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-14T20:19:32.806Z",
+          "requestedBy": "56706990080029@lid",
+          "acceptedBy": "151333776699455@lid",
+          "groupId": "120363408755337740@g.us",
+          "requestedAt": "2026-04-14T20:19:01.049Z",
+          "acceptedAt": "2026-04-14T20:19:32.806Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-14T20:19:32.806Z",
+          "requestedBy": "56706990080029@lid",
+          "acceptedBy": "151333776699455@lid",
+          "groupId": "120363408755337740@g.us",
+          "requestedAt": "2026-04-14T20:19:01.049Z",
+          "acceptedAt": "2026-04-14T20:19:32.806Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "56706990080029@lid",
+          "acceptedBy": "151333776699455@lid",
+          "requestedAt": "2026-04-14T20:19:01.049Z",
+          "acceptedAt": "2026-04-14T20:19:32.806Z"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "namoro",
+          "triggeredBy": "236283750301948@lid",
+          "endedAt": "2026-04-14T20:19:52.953Z"
+        }
+      ],
+      "createdAt": "2026-04-14T20:19:32.806Z",
+      "updatedAt": "2026-04-14T20:19:32.806Z",
+      "terminatedAt": "2026-04-14T20:19:52.953Z",
+      "terminatedBy": "236283750301948@lid",
+      "lastStatus": "namoro",
+      "finalStatus": "namoro"
+    },
+    {
+      "users": [
+        "151333776699455@lid",
+        "82764808372255@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-14T20:58:09.807Z",
+          "requestedBy": "151333776699455@lid",
+          "acceptedBy": "82764808372255@lid",
+          "groupId": "120363408755337740@g.us",
+          "requestedAt": "2026-04-14T20:56:51.972Z",
+          "acceptedAt": "2026-04-14T20:58:09.807Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-14T20:58:09.807Z",
+          "requestedBy": "151333776699455@lid",
+          "acceptedBy": "82764808372255@lid",
+          "groupId": "120363408755337740@g.us",
+          "requestedAt": "2026-04-14T20:56:51.972Z",
+          "acceptedAt": "2026-04-14T20:58:09.807Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "151333776699455@lid",
+          "acceptedBy": "82764808372255@lid",
+          "requestedAt": "2026-04-14T20:56:51.972Z",
+          "acceptedAt": "2026-04-14T20:58:09.807Z"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "namoro",
+          "triggeredBy": "236283750301948@lid",
+          "endedAt": "2026-04-14T20:58:30.644Z"
+        }
+      ],
+      "createdAt": "2026-04-14T20:58:09.807Z",
+      "updatedAt": "2026-04-14T20:58:09.807Z",
+      "terminatedAt": "2026-04-14T20:58:30.644Z",
+      "terminatedBy": "236283750301948@lid",
+      "lastStatus": "namoro",
+      "finalStatus": "namoro"
+    },
+    {
+      "users": [
+        "82764808372255@lid",
+        "151333776699455@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-14T20:59:09.401Z",
+          "requestedBy": "82764808372255@lid",
+          "acceptedBy": "151333776699455@lid",
+          "groupId": "120363408755337740@g.us",
+          "requestedAt": "2026-04-14T20:59:05.804Z",
+          "acceptedAt": "2026-04-14T20:59:09.401Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-14T20:59:09.401Z",
+          "requestedBy": "82764808372255@lid",
+          "acceptedBy": "151333776699455@lid",
+          "groupId": "120363408755337740@g.us",
+          "requestedAt": "2026-04-14T20:59:05.804Z",
+          "acceptedAt": "2026-04-14T20:59:09.401Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "82764808372255@lid",
+          "acceptedBy": "151333776699455@lid",
+          "requestedAt": "2026-04-14T20:59:05.804Z",
+          "acceptedAt": "2026-04-14T20:59:09.401Z"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "namoro",
+          "triggeredBy": "236283750301948@lid",
+          "endedAt": "2026-04-14T21:17:30.031Z"
+        }
+      ],
+      "createdAt": "2026-04-14T20:59:09.401Z",
+      "updatedAt": "2026-04-14T20:59:09.401Z",
+      "terminatedAt": "2026-04-14T21:17:30.031Z",
+      "terminatedBy": "236283750301948@lid",
+      "lastStatus": "namoro",
+      "finalStatus": "namoro"
+    },
+    {
+      "users": [
+        "151333776699455@lid",
+        "205961146978414@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-14T21:32:02.328Z",
+          "requestedBy": "151333776699455@lid",
+          "acceptedBy": "205961146978414@lid",
+          "groupId": "120363408755337740@g.us",
+          "requestedAt": "2026-04-14T21:30:15.614Z",
+          "acceptedAt": "2026-04-14T21:32:02.328Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-14T21:32:02.328Z",
+          "requestedBy": "151333776699455@lid",
+          "acceptedBy": "205961146978414@lid",
+          "groupId": "120363408755337740@g.us",
+          "requestedAt": "2026-04-14T21:30:15.614Z",
+          "acceptedAt": "2026-04-14T21:32:02.328Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "151333776699455@lid",
+          "acceptedBy": "205961146978414@lid",
+          "requestedAt": "2026-04-14T21:30:15.614Z",
+          "acceptedAt": "2026-04-14T21:32:02.328Z"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "namoro",
+          "triggeredBy": "236283750301948@lid",
+          "endedAt": "2026-04-14T21:32:49.307Z"
+        }
+      ],
+      "createdAt": "2026-04-14T21:32:02.328Z",
+      "updatedAt": "2026-04-14T21:32:02.328Z",
+      "terminatedAt": "2026-04-14T21:32:49.307Z",
+      "terminatedBy": "236283750301948@lid",
+      "lastStatus": "namoro",
+      "finalStatus": "namoro"
+    },
+    {
+      "users": [
+        "56706990080029@lid",
+        "151333776699455@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-14T23:51:12.231Z",
+          "requestedBy": "56706990080029@lid",
+          "acceptedBy": "151333776699455@lid",
+          "groupId": "120363408755337740@g.us",
+          "requestedAt": "2026-04-14T23:51:05.181Z",
+          "acceptedAt": "2026-04-14T23:51:12.231Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-14T23:51:12.231Z",
+          "requestedBy": "56706990080029@lid",
+          "acceptedBy": "151333776699455@lid",
+          "groupId": "120363408755337740@g.us",
+          "requestedAt": "2026-04-14T23:51:05.181Z",
+          "acceptedAt": "2026-04-14T23:51:12.231Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "56706990080029@lid",
+          "acceptedBy": "151333776699455@lid",
+          "requestedAt": "2026-04-14T23:51:05.181Z",
+          "acceptedAt": "2026-04-14T23:51:12.231Z"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "namoro",
+          "triggeredBy": "236283750301948@lid",
+          "endedAt": "2026-04-15T01:42:53.774Z"
+        }
+      ],
+      "createdAt": "2026-04-14T23:51:12.231Z",
+      "updatedAt": "2026-04-14T23:51:12.231Z",
+      "terminatedAt": "2026-04-15T01:42:53.774Z",
+      "terminatedBy": "236283750301948@lid",
+      "lastStatus": "namoro",
+      "finalStatus": "namoro"
+    },
+    {
+      "users": [
+        "172701004083342@lid",
+        "236283750301948@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-14T14:26:35.935Z",
+          "requestedBy": "172701004083342@lid",
+          "acceptedBy": "236283750301948@lid",
+          "groupId": "120363408755337740@g.us",
+          "requestedAt": "2026-04-14T14:25:39.257Z",
+          "acceptedAt": "2026-04-14T14:26:35.935Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-14T14:26:35.935Z",
+          "requestedBy": "172701004083342@lid",
+          "acceptedBy": "236283750301948@lid",
+          "groupId": "120363408755337740@g.us",
+          "requestedAt": "2026-04-14T14:25:39.257Z",
+          "acceptedAt": "2026-04-14T14:26:35.935Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "172701004083342@lid",
+          "acceptedBy": "236283750301948@lid",
+          "requestedAt": "2026-04-14T14:25:39.257Z",
+          "acceptedAt": "2026-04-14T14:26:35.935Z"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "namoro",
+          "triggeredBy": "236283750301948@lid",
+          "endedAt": "2026-04-15T01:44:31.906Z"
+        }
+      ],
+      "createdAt": "2026-04-14T14:26:35.935Z",
+      "updatedAt": "2026-04-14T14:26:35.935Z",
+      "terminatedAt": "2026-04-15T01:44:31.906Z",
+      "terminatedBy": "236283750301948@lid",
+      "lastStatus": "namoro",
+      "finalStatus": "namoro"
+    },
+    {
+      "users": [
+        "236283750301948@lid",
+        "151333776699455@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-15T01:44:49.926Z",
+          "requestedBy": "236283750301948@lid",
+          "acceptedBy": "151333776699455@lid",
+          "groupId": "120363408755337740@g.us",
+          "requestedAt": "2026-04-15T01:44:44.972Z",
+          "acceptedAt": "2026-04-15T01:44:49.926Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-15T01:44:49.926Z",
+          "requestedBy": "236283750301948@lid",
+          "acceptedBy": "151333776699455@lid",
+          "groupId": "120363408755337740@g.us",
+          "requestedAt": "2026-04-15T01:44:44.972Z",
+          "acceptedAt": "2026-04-15T01:44:49.926Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "236283750301948@lid",
+          "acceptedBy": "151333776699455@lid",
+          "requestedAt": "2026-04-15T01:44:44.972Z",
+          "acceptedAt": "2026-04-15T01:44:49.926Z"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "namoro",
+          "triggeredBy": "236283750301948@lid",
+          "endedAt": "2026-04-15T17:06:19.446Z"
+        }
+      ],
+      "createdAt": "2026-04-15T01:44:49.926Z",
+      "updatedAt": "2026-04-15T01:44:49.926Z",
+      "terminatedAt": "2026-04-15T17:06:19.446Z",
+      "terminatedBy": "236283750301948@lid",
+      "lastStatus": "namoro",
+      "finalStatus": "namoro"
+    },
+    {
+      "users": [
+        "151333776699455@lid",
+        "205961146978414@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-15T17:09:01.939Z",
+          "requestedBy": "151333776699455@lid",
+          "acceptedBy": "205961146978414@lid",
+          "groupId": "120363408755337740@g.us",
+          "requestedAt": "2026-04-15T17:08:05.404Z",
+          "acceptedAt": "2026-04-15T17:09:01.939Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-15T17:09:01.939Z",
+          "requestedBy": "151333776699455@lid",
+          "acceptedBy": "205961146978414@lid",
+          "groupId": "120363408755337740@g.us",
+          "requestedAt": "2026-04-15T17:08:05.404Z",
+          "acceptedAt": "2026-04-15T17:09:01.939Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "151333776699455@lid",
+          "acceptedBy": "205961146978414@lid",
+          "requestedAt": "2026-04-15T17:08:05.404Z",
+          "acceptedAt": "2026-04-15T17:09:01.939Z"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "namoro",
+          "triggeredBy": "236283750301948@lid",
+          "endedAt": "2026-04-15T17:09:10.026Z"
+        }
+      ],
+      "createdAt": "2026-04-15T17:09:01.939Z",
+      "updatedAt": "2026-04-15T17:09:01.939Z",
+      "terminatedAt": "2026-04-15T17:09:10.026Z",
+      "terminatedBy": "236283750301948@lid",
+      "lastStatus": "namoro",
+      "finalStatus": "namoro"
+    },
+    {
+      "users": [
+        "81299989618878@lid",
+        "98858084388864@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-08T01:44:06.328Z",
+          "requestedBy": "81299989618878@lid",
+          "acceptedBy": "98858084388864@lid",
+          "groupId": "120363425504565519@g.us",
+          "requestedAt": "2026-04-08T01:43:59.407Z",
+          "acceptedAt": "2026-04-08T01:44:06.328Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-08T01:44:06.328Z",
+          "requestedBy": "81299989618878@lid",
+          "acceptedBy": "98858084388864@lid",
+          "groupId": "120363425504565519@g.us",
+          "requestedAt": "2026-04-08T01:43:59.407Z",
+          "acceptedAt": "2026-04-08T01:44:06.328Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "81299989618878@lid",
+          "acceptedBy": "98858084388864@lid",
+          "requestedAt": "2026-04-08T01:43:59.407Z",
+          "acceptedAt": "2026-04-08T01:44:06.328Z"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "namoro",
+          "triggeredBy": "98858084388864@lid",
+          "endedAt": "2026-04-17T18:49:05.074Z"
+        }
+      ],
+      "createdAt": "2026-04-08T01:44:06.328Z",
+      "updatedAt": "2026-04-08T01:44:06.328Z",
+      "terminatedAt": "2026-04-17T18:49:05.074Z",
+      "terminatedBy": "98858084388864@lid",
+      "lastStatus": "namoro",
+      "finalStatus": "namoro"
+    },
+    {
+      "users": [
+        "60495285489707@lid",
+        "98858084388864@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-17T20:29:37.769Z",
+          "requestedBy": "60495285489707@lid",
+          "acceptedBy": "98858084388864@lid",
+          "groupId": "120363407678212501@g.us",
+          "requestedAt": "2026-04-17T20:28:01.378Z",
+          "acceptedAt": "2026-04-17T20:29:37.769Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-17T20:29:37.769Z",
+          "requestedBy": "60495285489707@lid",
+          "acceptedBy": "98858084388864@lid",
+          "groupId": "120363407678212501@g.us",
+          "requestedAt": "2026-04-17T20:28:01.378Z",
+          "acceptedAt": "2026-04-17T20:29:37.769Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "60495285489707@lid",
+          "acceptedBy": "98858084388864@lid",
+          "requestedAt": "2026-04-17T20:28:01.378Z",
+          "acceptedAt": "2026-04-17T20:29:37.769Z"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "namoro",
+          "triggeredBy": "98858084388864@lid",
+          "endedAt": "2026-04-18T15:57:02.938Z"
+        }
+      ],
+      "createdAt": "2026-04-17T20:29:37.769Z",
+      "updatedAt": "2026-04-17T20:29:37.769Z",
+      "terminatedAt": "2026-04-18T15:57:02.938Z",
+      "terminatedBy": "98858084388864@lid",
+      "lastStatus": "namoro",
+      "finalStatus": "namoro"
+    },
+    {
+      "users": [
+        "34377706803439@lid",
+        "217364654235796@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "brincadeira": {
+          "since": "2026-04-19T05:16:08.929Z",
+          "requestedBy": "34377706803439@lid",
+          "acceptedBy": "217364654235796@lid",
+          "groupId": "120363422099140039@g.us",
+          "requestedAt": "2026-04-19T05:15:59.694Z",
+          "acceptedAt": "2026-04-19T05:16:08.929Z"
+        }
+      },
+      "history": [
+        {
+          "type": "brincadeira",
+          "requestedBy": "34377706803439@lid",
+          "acceptedBy": "217364654235796@lid",
+          "requestedAt": "2026-04-19T05:15:59.694Z",
+          "acceptedAt": "2026-04-19T05:16:08.929Z"
+        },
+        {
+          "type": "traicao",
+          "traitor": "217364654235796@lid",
+          "victim": "34377706803439@lid",
+          "accomplice": "5777116926006@lid",
+          "date": "2026-04-19T15:49:11.247Z",
+          "groupId": "120363408248563478@g.us",
+          "previousStatus": "brincadeira"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "brincadeira",
+          "triggeredBy": "217364654235796@lid",
+          "endedAt": "2026-04-19T15:49:33.579Z"
+        }
+      ],
+      "createdAt": "2026-04-19T05:16:08.929Z",
+      "updatedAt": "2026-04-19T05:16:08.929Z",
+      "terminatedAt": "2026-04-19T15:49:33.579Z",
+      "terminatedBy": "217364654235796@lid",
+      "lastStatus": "brincadeira",
+      "betrayals": {
+        "217364654235796@lid": 1,
+        "34377706803439@lid": 0
+      },
+      "lastBetrayal": {
+        "date": "2026-04-19T15:49:11.247Z",
+        "traitor": "217364654235796@lid",
+        "victim": "34377706803439@lid",
+        "accomplice": "5777116926006@lid"
+      },
+      "finalStatus": "brincadeira"
+    },
+    {
+      "users": [
+        "98858084388864@lid",
+        "60495285489707@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-18T15:58:29.232Z",
+          "requestedBy": "98858084388864@lid",
+          "acceptedBy": "60495285489707@lid",
+          "groupId": "120363407240419674@g.us",
+          "requestedAt": "2026-04-18T15:58:23.159Z",
+          "acceptedAt": "2026-04-18T15:58:29.232Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-18T15:58:29.232Z",
+          "requestedBy": "98858084388864@lid",
+          "acceptedBy": "60495285489707@lid",
+          "groupId": "120363407240419674@g.us",
+          "requestedAt": "2026-04-18T15:58:23.159Z",
+          "acceptedAt": "2026-04-18T15:58:29.232Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "98858084388864@lid",
+          "acceptedBy": "60495285489707@lid",
+          "requestedAt": "2026-04-18T15:58:23.159Z",
+          "acceptedAt": "2026-04-18T15:58:29.232Z"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "namoro",
+          "triggeredBy": "98858084388864@lid",
+          "endedAt": "2026-04-20T23:18:43.366Z"
+        }
+      ],
+      "createdAt": "2026-04-18T15:58:29.232Z",
+      "updatedAt": "2026-04-18T15:58:29.232Z",
+      "terminatedAt": "2026-04-20T23:18:43.366Z",
+      "terminatedBy": "98858084388864@lid",
+      "lastStatus": "namoro",
+      "finalStatus": "namoro"
+    },
+    {
+      "users": [
+        "124653490184352@lid",
+        "9595661594873@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-20T23:59:40.122Z",
+          "requestedBy": "124653490184352@lid",
+          "acceptedBy": "9595661594873@lid",
+          "groupId": "120363407240419674@g.us",
+          "requestedAt": "2026-04-20T23:59:33.505Z",
+          "acceptedAt": "2026-04-20T23:59:40.122Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-20T23:59:40.122Z",
+          "requestedBy": "124653490184352@lid",
+          "acceptedBy": "9595661594873@lid",
+          "groupId": "120363407240419674@g.us",
+          "requestedAt": "2026-04-20T23:59:33.505Z",
+          "acceptedAt": "2026-04-20T23:59:40.122Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "124653490184352@lid",
+          "acceptedBy": "9595661594873@lid",
+          "requestedAt": "2026-04-20T23:59:33.505Z",
+          "acceptedAt": "2026-04-20T23:59:40.122Z"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "namoro",
+          "triggeredBy": "124653490184352@lid",
+          "endedAt": "2026-04-21T00:06:08.638Z"
+        }
+      ],
+      "createdAt": "2026-04-20T23:59:40.122Z",
+      "updatedAt": "2026-04-20T23:59:40.122Z",
+      "terminatedAt": "2026-04-21T00:06:08.638Z",
+      "terminatedBy": "124653490184352@lid",
+      "lastStatus": "namoro",
+      "finalStatus": "namoro"
+    },
+    {
+      "users": [
+        "192960448725177@lid",
+        "66426601746435@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "namoro": {
+          "since": "2026-03-22T23:57:23.917Z",
+          "requestedBy": "192960448725177@lid",
+          "acceptedBy": "66426601746435@lid",
+          "groupId": "120363407678212501@g.us",
+          "requestedAt": "2026-03-22T23:55:45.563Z",
+          "acceptedAt": "2026-03-22T23:57:23.917Z"
+        },
+        "brincadeira": {
+          "since": "2026-03-22T23:57:23.917Z",
+          "requestedBy": "192960448725177@lid",
+          "acceptedBy": "66426601746435@lid",
+          "groupId": "120363407678212501@g.us",
+          "requestedAt": "2026-03-22T23:55:45.563Z",
+          "acceptedAt": "2026-03-22T23:57:23.917Z"
+        },
+        "casamento": {
+          "since": "2026-04-05T17:42:53.495Z",
+          "requestedBy": "192960448725177@lid",
+          "acceptedBy": "66426601746435@lid",
+          "groupId": "120363407678212501@g.us",
+          "requestedAt": "2026-04-05T17:42:41.338Z",
+          "acceptedAt": "2026-04-05T17:42:53.495Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "192960448725177@lid",
+          "acceptedBy": "66426601746435@lid",
+          "requestedAt": "2026-03-22T23:55:45.563Z",
+          "acceptedAt": "2026-03-22T23:57:23.917Z"
+        },
+        {
+          "type": "casamento",
+          "requestedBy": "192960448725177@lid",
+          "acceptedBy": "66426601746435@lid",
+          "requestedAt": "2026-04-05T17:42:41.338Z",
+          "acceptedAt": "2026-04-05T17:42:53.495Z"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "casamento",
+          "triggeredBy": "192960448725177@lid",
+          "endedAt": "2026-04-26T19:11:49.854Z"
+        }
+      ],
+      "createdAt": "2026-03-22T23:57:23.917Z",
+      "updatedAt": "2026-04-05T17:42:53.495Z",
+      "terminatedAt": "2026-04-26T19:11:49.854Z",
+      "terminatedBy": "192960448725177@lid",
+      "lastStatus": "casamento",
+      "finalStatus": "casamento"
+    },
+    {
+      "users": [
+        "41829340868827@lid",
+        "104879460724741@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-26T17:04:44.837Z",
+          "requestedBy": "41829340868827@lid",
+          "acceptedBy": "104879460724741@lid",
+          "groupId": "120363425710341429@g.us",
+          "requestedAt": "2026-04-26T17:03:43.201Z",
+          "acceptedAt": "2026-04-26T17:04:44.837Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-26T17:04:44.837Z",
+          "requestedBy": "41829340868827@lid",
+          "acceptedBy": "104879460724741@lid",
+          "groupId": "120363425710341429@g.us",
+          "requestedAt": "2026-04-26T17:03:43.201Z",
+          "acceptedAt": "2026-04-26T17:04:44.837Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "41829340868827@lid",
+          "acceptedBy": "104879460724741@lid",
+          "requestedAt": "2026-04-26T17:03:43.201Z",
+          "acceptedAt": "2026-04-26T17:04:44.837Z"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "namoro",
+          "triggeredBy": "41829340868827@lid",
+          "endedAt": "2026-04-29T20:20:01.764Z"
+        }
+      ],
+      "createdAt": "2026-04-26T17:04:44.837Z",
+      "updatedAt": "2026-04-26T17:04:44.837Z",
+      "terminatedAt": "2026-04-29T20:20:01.764Z",
+      "terminatedBy": "41829340868827@lid",
+      "lastStatus": "namoro",
+      "finalStatus": "namoro"
+    },
+    {
+      "users": [
+        "176699820003340@lid",
+        "144190876983399@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-26T19:02:39.994Z",
+          "requestedBy": "176699820003340@lid",
+          "acceptedBy": "144190876983399@lid",
+          "groupId": "120363425710341429@g.us",
+          "requestedAt": "2026-04-26T19:02:03.829Z",
+          "acceptedAt": "2026-04-26T19:02:39.994Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-26T19:02:39.994Z",
+          "requestedBy": "176699820003340@lid",
+          "acceptedBy": "144190876983399@lid",
+          "groupId": "120363425710341429@g.us",
+          "requestedAt": "2026-04-26T19:02:03.829Z",
+          "acceptedAt": "2026-04-26T19:02:39.994Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "176699820003340@lid",
+          "acceptedBy": "144190876983399@lid",
+          "requestedAt": "2026-04-26T19:02:03.829Z",
+          "acceptedAt": "2026-04-26T19:02:39.994Z"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "namoro",
+          "triggeredBy": "176699820003340@lid",
+          "endedAt": "2026-04-29T23:04:04.920Z"
+        }
+      ],
+      "createdAt": "2026-04-26T19:02:39.994Z",
+      "updatedAt": "2026-04-26T19:02:39.994Z",
+      "terminatedAt": "2026-04-29T23:04:04.920Z",
+      "terminatedBy": "176699820003340@lid",
+      "lastStatus": "namoro",
+      "finalStatus": "namoro"
+    },
+    {
+      "users": [
+        "176699820003340@lid",
+        "229579558002800@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "namoro": {
+          "since": "2026-04-30T04:14:40.588Z",
+          "requestedBy": "176699820003340@lid",
+          "acceptedBy": "229579558002800@lid",
+          "groupId": "120363425710341429@g.us",
+          "requestedAt": "2026-04-30T04:13:28.759Z",
+          "acceptedAt": "2026-04-30T04:14:40.588Z"
+        },
+        "brincadeira": {
+          "since": "2026-04-30T04:14:40.588Z",
+          "requestedBy": "176699820003340@lid",
+          "acceptedBy": "229579558002800@lid",
+          "groupId": "120363425710341429@g.us",
+          "requestedAt": "2026-04-30T04:13:28.759Z",
+          "acceptedAt": "2026-04-30T04:14:40.588Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "176699820003340@lid",
+          "acceptedBy": "229579558002800@lid",
+          "requestedAt": "2026-04-30T04:13:28.759Z",
+          "acceptedAt": "2026-04-30T04:14:40.588Z"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "namoro",
+          "triggeredBy": "176699820003340@lid",
+          "endedAt": "2026-04-30T22:14:18.301Z"
+        }
+      ],
+      "createdAt": "2026-04-30T04:14:40.588Z",
+      "updatedAt": "2026-04-30T04:14:40.588Z",
+      "terminatedAt": "2026-04-30T22:14:18.301Z",
+      "terminatedBy": "176699820003340@lid",
+      "lastStatus": "namoro",
+      "finalStatus": "namoro"
+    },
+    {
+      "users": [
+        "119168397537468@lid",
+        "365273563198@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "namoro": {
+          "since": "2026-05-05T23:25:01.480Z",
+          "requestedBy": "119168397537468@lid",
+          "acceptedBy": "365273563198@lid",
+          "groupId": "120363403772949976@g.us",
+          "requestedAt": "2026-05-05T23:24:44.146Z",
+          "acceptedAt": "2026-05-05T23:25:01.480Z"
+        },
+        "brincadeira": {
+          "since": "2026-05-05T23:25:01.480Z",
+          "requestedBy": "119168397537468@lid",
+          "acceptedBy": "365273563198@lid",
+          "groupId": "120363403772949976@g.us",
+          "requestedAt": "2026-05-05T23:24:44.146Z",
+          "acceptedAt": "2026-05-05T23:25:01.480Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "119168397537468@lid",
+          "acceptedBy": "365273563198@lid",
+          "requestedAt": "2026-05-05T23:24:44.146Z",
+          "acceptedAt": "2026-05-05T23:25:01.480Z"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "namoro",
+          "triggeredBy": "365273563198@lid",
+          "endedAt": "2026-05-05T23:25:22.911Z"
+        }
+      ],
+      "createdAt": "2026-05-05T23:25:01.480Z",
+      "updatedAt": "2026-05-05T23:25:01.480Z",
+      "terminatedAt": "2026-05-05T23:25:22.911Z",
+      "terminatedBy": "365273563198@lid",
+      "lastStatus": "namoro",
+      "finalStatus": "namoro"
+    },
+    {
+      "users": [
+        "119168397537468@lid",
+        "257337780650174@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "namoro": {
+          "since": "2026-05-05T23:32:50.564Z",
+          "requestedBy": "119168397537468@lid",
+          "acceptedBy": "257337780650174@lid",
+          "groupId": "120363403772949976@g.us",
+          "requestedAt": "2026-05-05T23:32:43.036Z",
+          "acceptedAt": "2026-05-05T23:32:50.564Z"
+        },
+        "brincadeira": {
+          "since": "2026-05-05T23:32:50.564Z",
+          "requestedBy": "119168397537468@lid",
+          "acceptedBy": "257337780650174@lid",
+          "groupId": "120363403772949976@g.us",
+          "requestedAt": "2026-05-05T23:32:43.036Z",
+          "acceptedAt": "2026-05-05T23:32:50.564Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "119168397537468@lid",
+          "acceptedBy": "257337780650174@lid",
+          "requestedAt": "2026-05-05T23:32:43.036Z",
+          "acceptedAt": "2026-05-05T23:32:50.564Z"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "namoro",
+          "triggeredBy": "119168397537468@lid",
+          "endedAt": "2026-05-05T23:33:04.992Z"
+        }
+      ],
+      "createdAt": "2026-05-05T23:32:50.564Z",
+      "updatedAt": "2026-05-05T23:32:50.564Z",
+      "terminatedAt": "2026-05-05T23:33:04.992Z",
+      "terminatedBy": "119168397537468@lid",
+      "lastStatus": "namoro",
+      "finalStatus": "namoro"
+    },
+    {
+      "users": [
+        "119168397537468@lid",
+        "30756780904629@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "namoro": {
+          "since": "2026-05-05T23:39:43.807Z",
+          "requestedBy": "119168397537468@lid",
+          "acceptedBy": "30756780904629@lid",
+          "groupId": "120363403772949976@g.us",
+          "requestedAt": "2026-05-05T23:37:25.050Z",
+          "acceptedAt": "2026-05-05T23:39:43.807Z"
+        },
+        "brincadeira": {
+          "since": "2026-05-05T23:39:43.807Z",
+          "requestedBy": "119168397537468@lid",
+          "acceptedBy": "30756780904629@lid",
+          "groupId": "120363403772949976@g.us",
+          "requestedAt": "2026-05-05T23:37:25.050Z",
+          "acceptedAt": "2026-05-05T23:39:43.807Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "119168397537468@lid",
+          "acceptedBy": "30756780904629@lid",
+          "requestedAt": "2026-05-05T23:37:25.050Z",
+          "acceptedAt": "2026-05-05T23:39:43.807Z"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "namoro",
+          "triggeredBy": "119168397537468@lid",
+          "endedAt": "2026-05-06T03:36:57.338Z"
+        }
+      ],
+      "createdAt": "2026-05-05T23:39:43.807Z",
+      "updatedAt": "2026-05-05T23:39:43.807Z",
+      "terminatedAt": "2026-05-06T03:36:57.338Z",
+      "terminatedBy": "119168397537468@lid",
+      "lastStatus": "namoro",
+      "finalStatus": "namoro"
+    },
+    {
+      "users": [
+        "225915967635468@lid",
+        "98858084388864@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "namoro": {
+          "since": "2026-05-05T19:27:19.282Z",
+          "requestedBy": "225915967635468@lid",
+          "acceptedBy": "98858084388864@lid",
+          "groupId": "120363403772949976@g.us",
+          "requestedAt": "2026-05-05T19:27:13.244Z",
+          "acceptedAt": "2026-05-05T19:27:19.282Z"
+        },
+        "brincadeira": {
+          "since": "2026-05-05T19:27:19.282Z",
+          "requestedBy": "225915967635468@lid",
+          "acceptedBy": "98858084388864@lid",
+          "groupId": "120363403772949976@g.us",
+          "requestedAt": "2026-05-05T19:27:13.244Z",
+          "acceptedAt": "2026-05-05T19:27:19.282Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "225915967635468@lid",
+          "acceptedBy": "98858084388864@lid",
+          "requestedAt": "2026-05-05T19:27:13.244Z",
+          "acceptedAt": "2026-05-05T19:27:19.282Z"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "namoro",
+          "triggeredBy": "225915967635468@lid",
+          "endedAt": "2026-05-08T22:57:55.970Z"
+        }
+      ],
+      "createdAt": "2026-05-05T19:27:19.282Z",
+      "updatedAt": "2026-05-05T19:27:19.282Z",
+      "terminatedAt": "2026-05-08T22:57:55.970Z",
+      "terminatedBy": "225915967635468@lid",
+      "lastStatus": "namoro",
+      "finalStatus": "namoro"
+    },
+    {
+      "users": [
+        "119168397537468@lid",
+        "98410652778592@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "namoro": {
+          "since": "2026-05-06T03:39:34.353Z",
+          "requestedBy": "119168397537468@lid",
+          "acceptedBy": "98410652778592@lid",
+          "groupId": "120363403772949976@g.us",
+          "requestedAt": "2026-05-06T03:39:03.381Z",
+          "acceptedAt": "2026-05-06T03:39:34.353Z"
+        },
+        "brincadeira": {
+          "since": "2026-05-06T03:39:34.353Z",
+          "requestedBy": "119168397537468@lid",
+          "acceptedBy": "98410652778592@lid",
+          "groupId": "120363403772949976@g.us",
+          "requestedAt": "2026-05-06T03:39:03.381Z",
+          "acceptedAt": "2026-05-06T03:39:34.353Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "119168397537468@lid",
+          "acceptedBy": "98410652778592@lid",
+          "requestedAt": "2026-05-06T03:39:03.381Z",
+          "acceptedAt": "2026-05-06T03:39:34.353Z"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "namoro",
+          "triggeredBy": "98410652778592@lid",
+          "endedAt": "2026-05-18T02:28:07.472Z"
+        }
+      ],
+      "createdAt": "2026-05-06T03:39:34.353Z",
+      "updatedAt": "2026-05-06T03:39:34.353Z",
+      "terminatedAt": "2026-05-18T02:28:07.472Z",
+      "terminatedBy": "98410652778592@lid",
+      "lastStatus": "namoro",
+      "finalStatus": "namoro"
+    },
+    {
+      "users": [
+        "365273563198@lid",
+        "98410652778592@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "namoro": {
+          "since": "2026-05-18T02:28:33.643Z",
+          "requestedBy": "365273563198@lid",
+          "acceptedBy": "98410652778592@lid",
+          "groupId": "120363409004817057@g.us",
+          "requestedAt": "2026-05-18T02:28:20.604Z",
+          "acceptedAt": "2026-05-18T02:28:33.643Z"
+        },
+        "brincadeira": {
+          "since": "2026-05-18T02:28:33.643Z",
+          "requestedBy": "365273563198@lid",
+          "acceptedBy": "98410652778592@lid",
+          "groupId": "120363409004817057@g.us",
+          "requestedAt": "2026-05-18T02:28:20.604Z",
+          "acceptedAt": "2026-05-18T02:28:33.643Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "365273563198@lid",
+          "acceptedBy": "98410652778592@lid",
+          "requestedAt": "2026-05-18T02:28:20.604Z",
+          "acceptedAt": "2026-05-18T02:28:33.643Z"
+        },
+        {
+          "type": "traicao",
+          "traitor": "365273563198@lid",
+          "victim": "98410652778592@lid",
+          "accomplice": "30756780904629@lid",
+          "date": "2026-05-18T02:30:03.591Z",
+          "groupId": "120363409004817057@g.us",
+          "previousStatus": "namoro"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "namoro",
+          "triggeredBy": "98410652778592@lid",
+          "endedAt": "2026-05-18T02:30:24.921Z"
+        }
+      ],
+      "createdAt": "2026-05-18T02:28:33.643Z",
+      "updatedAt": "2026-05-18T02:28:33.643Z",
+      "terminatedAt": "2026-05-18T02:30:24.921Z",
+      "terminatedBy": "98410652778592@lid",
+      "lastStatus": "namoro",
+      "betrayals": {
+        "365273563198@lid": 1,
+        "98410652778592@lid": 0
+      },
+      "lastBetrayal": {
+        "date": "2026-05-18T02:30:03.591Z",
+        "traitor": "365273563198@lid",
+        "victim": "98410652778592@lid",
+        "accomplice": "30756780904629@lid"
+      },
+      "finalStatus": "namoro"
+    },
+    {
+      "users": [
+        "224802950353146@lid",
+        "223652536709175@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "namoro": {
+          "since": "2026-05-29T16:38:41.804Z",
+          "requestedBy": "224802950353146@lid",
+          "acceptedBy": "223652536709175@lid",
+          "groupId": "120363409369331131@g.us",
+          "requestedAt": "2026-05-29T16:38:26.147Z",
+          "acceptedAt": "2026-05-29T16:38:41.804Z"
+        },
+        "brincadeira": {
+          "since": "2026-05-29T16:38:41.804Z",
+          "requestedBy": "224802950353146@lid",
+          "acceptedBy": "223652536709175@lid",
+          "groupId": "120363409369331131@g.us",
+          "requestedAt": "2026-05-29T16:38:26.147Z",
+          "acceptedAt": "2026-05-29T16:38:41.804Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "224802950353146@lid",
+          "acceptedBy": "223652536709175@lid",
+          "requestedAt": "2026-05-29T16:38:26.147Z",
+          "acceptedAt": "2026-05-29T16:38:41.804Z"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "namoro",
+          "triggeredBy": "223652536709175@lid",
+          "endedAt": "2026-05-29T16:52:35.965Z"
+        }
+      ],
+      "createdAt": "2026-05-29T16:38:41.804Z",
+      "updatedAt": "2026-05-29T16:38:41.804Z",
+      "terminatedAt": "2026-05-29T16:52:35.965Z",
+      "terminatedBy": "223652536709175@lid",
+      "lastStatus": "namoro",
+      "finalStatus": "namoro"
+    },
+    {
+      "users": [
+        "192960448725177@lid",
+        "93901591445604@lid"
+      ],
+      "status": "terminado",
+      "stages": {
+        "namoro": {
+          "since": "2026-07-08T20:22:47.020Z",
+          "requestedBy": "192960448725177@lid",
+          "acceptedBy": "93901591445604@lid",
+          "groupId": "120363428975360415@g.us",
+          "requestedAt": "2026-07-08T20:22:22.636Z",
+          "acceptedAt": "2026-07-08T20:22:47.020Z"
+        },
+        "brincadeira": {
+          "since": "2026-07-08T20:22:47.020Z",
+          "requestedBy": "192960448725177@lid",
+          "acceptedBy": "93901591445604@lid",
+          "groupId": "120363428975360415@g.us",
+          "requestedAt": "2026-07-08T20:22:22.636Z",
+          "acceptedAt": "2026-07-08T20:22:47.020Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "192960448725177@lid",
+          "acceptedBy": "93901591445604@lid",
+          "requestedAt": "2026-07-08T20:22:22.636Z",
+          "acceptedAt": "2026-07-08T20:22:47.020Z"
+        },
+        {
+          "type": "termino",
+          "previousStatus": "namoro",
+          "triggeredBy": "192960448725177@lid",
+          "endedAt": "2026-07-12T21:18:50.425Z"
+        }
+      ],
+      "createdAt": "2026-07-08T20:22:47.020Z",
+      "updatedAt": "2026-07-08T20:22:47.020Z",
+      "terminatedAt": "2026-07-12T21:18:50.425Z",
+      "terminatedBy": "192960448725177@lid",
+      "lastStatus": "namoro",
+      "finalStatus": "namoro"
+    }
+  ]
+}

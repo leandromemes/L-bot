@@ -1,0 +1,14 @@
+{
+  "120363428975360415@g.us": {
+    "enabled": true,
+    "limit": 5,
+    "interval": 8,
+    "users": {}
+  },
+  "120363409719417004@g.us": {
+    "enabled": true,
+    "limit": 5,
+    "interval": 10,
+    "users": {}
+  }
+}

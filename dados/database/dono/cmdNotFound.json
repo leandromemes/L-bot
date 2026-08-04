@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "message": "Sério? Você tentou digitar isso mesmo? kkk \n❌*Comando inexistente*. Se quer que eu faça algo útil, use /menu e aprenda a me comandar direito.",
+  "style": "friendly",
+  "variables": {
+    "command": "{command}",
+    "prefix": "{prefix}",
+    "user": "{user}",
+    "botName": "{botName}",
+    "userName": "{userName}"
+  },
+  "lastUpdated": "2026-03-26T16:30:34.883Z"
+}

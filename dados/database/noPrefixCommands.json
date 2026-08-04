@@ -1,0 +1,24 @@
+{
+  "commands": [
+    {
+      "trigger": "take",
+      "command": "take",
+      "fixedParams": ""
+    },
+    {
+      "trigger": "d",
+      "command": "d",
+      "fixedParams": ""
+    },
+    {
+      "trigger": "menu",
+      "command": "m",
+      "fixedParams": ""
+    },
+    {
+      "trigger": "m",
+      "command": "menu",
+      "fixedParams": ""
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "mark": {},
+  "createdAt": "2026-06-08T02:12:30.431Z",
+  "groupName": "✞𝔏𝔬𝔰 𝖈𝖆𝖕𝖊𝖙𝖎𝖓𝖍𝖆𝖘",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "105274681602280@lid",
+      "msg": 251,
+      "cmd": 1,
+      "figu": 26,
+      "pushname": "𓆩ꝐꞨ𓆪𝖉𝖎𝖆𝖇𝖎𝖓𝖍𝖆",
+      "firstSeen": "2026-06-08T02:12:30.458Z",
+      "lastActivity": "2026-06-14T20:26:36.377Z"
+    },
+    {
+      "id": "25886472585277@lid",
+      "msg": 200,
+      "cmd": 7,
+      "figu": 75,
+      "pushname": "Dev Soberano",
+      "firstSeen": "2026-06-08T02:12:38.319Z",
+      "lastActivity": "2026-07-22T12:21:23.842Z"
+    },
+    {
+      "id": "192960448725177@lid",
+      "msg": 201,
+      "cmd": 4,
+      "figu": 26,
+      "pushname": "𝐈𝐬𝐚𝐠𝐢",
+      "firstSeen": "2026-06-08T02:12:57.793Z",
+      "lastActivity": "2026-07-21T04:51:31.898Z"
+    },
+    {
+      "id": "276218658173089@lid",
+      "msg": 35,
+      "cmd": 0,
+      "figu": 19,
+      "pushname": "رودريغز",
+      "firstSeen": "2026-06-08T02:25:33.400Z",
+      "lastActivity": "2026-06-11T09:39:20.741Z"
+    },
+    {
+      "id": "218713307521249@lid",
+      "msg": 50,
+      "cmd": 0,
+      "figu": 21,
+      "pushname": "Gotica Rabuda",
+      "firstSeen": "2026-06-08T02:35:38.548Z",
+      "lastActivity": "2026-07-22T03:24:53.632Z"
+    },
+    {
+      "id": "116948268540100@lid",
+      "msg": 92,
+      "cmd": 24,
+      "figu": 46,
+      "pushname": "✩",
+      "firstSeen": "2026-06-08T02:54:40.020Z",
+      "lastActivity": "2026-06-27T01:09:02.528Z"
+    },
+    {
+      "id": "23227770396824@lid",
+      "msg": 19,
+      "cmd": 0,
+      "figu": 3,
+      "pushname": "Esdras",
+      "firstSeen": "2026-06-08T09:29:03.753Z",
+      "lastActivity": "2026-07-21T02:24:42.830Z"
+    },
+    {
+      "id": "277579995074627@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "𝑺𝒂𝒏𝒕𝒐𝒔",
+      "firstSeen": "2026-06-09T13:31:41.936Z",
+      "lastActivity": "2026-06-24T02:58:21.125Z"
+    },
+    {
+      "id": "238388233945200@lid",
+      "msg": 3,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "índio",
+      "firstSeen": "2026-06-10T01:21:11.740Z",
+      "lastActivity": "2026-06-10T01:30:23.503Z"
+    },
+    {
+      "id": "15818465267758@lid",
+      "msg": 150,
+      "cmd": 0,
+      "figu": 36,
+      "pushname": "deni",
+      "firstSeen": "2026-06-11T02:03:04.149Z",
+      "lastActivity": "2026-07-20T20:57:31.716Z"
+    },
+    {
+      "id": "182665495978188@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Cadu lindo",
+      "firstSeen": "2026-06-13T00:04:19.759Z",
+      "lastActivity": "2026-06-13T00:04:19.759Z"
+    },
+    {
+      "id": "110685803569352@lid",
+      "msg": 15,
+      "cmd": 0,
+      "figu": 16,
+      "pushname": "Carlos Henrique🎭ᵒˡⁱᵗᵏ⋆⁷¹⁶",
+      "firstSeen": "2026-06-13T01:34:53.565Z",
+      "lastActivity": "2026-06-19T13:08:04.905Z"
+    },
+    {
+      "id": "69385448354013@lid",
+      "msg": 62,
+      "cmd": 3,
+      "figu": 6,
+      "pushname": "𝐤𝐧𝐳'",
+      "firstSeen": "2026-06-17T20:27:41.505Z",
+      "lastActivity": "2026-06-27T01:17:21.809Z"
+    },
+    {
+      "id": "129441875419150@lid",
+      "msg": 3,
+      "cmd": 0,
+      "figu": 2,
+      "pushname": "*Amaral*",
+      "firstSeen": "2026-06-17T20:30:22.093Z",
+      "lastActivity": "2026-06-17T20:31:08.201Z"
+    },
+    {
+      "id": "157866572955787@lid",
+      "msg": 686,
+      "cmd": 15,
+      "figu": 98,
+      "pushname": "𝕷.𝕰 𝖉𝖎𝖆𝖇𝖎𝖓𝖍𝖆",
+      "firstSeen": "2026-06-17T20:30:24.996Z",
+      "lastActivity": "2026-07-21T14:30:14.852Z"
+    },
+    {
+      "id": "150779742675088@lid",
+      "msg": 80,
+      "cmd": 1,
+      "figu": 22,
+      "pushname": "Ld",
+      "firstSeen": "2026-06-17T20:31:31.607Z",
+      "lastActivity": "2026-06-19T19:13:16.062Z"
+    },
+    {
+      "id": "93901591445604@lid",
+      "msg": 4,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "𝕷.𝕰 fernando",
+      "firstSeen": "2026-06-17T20:32:50.206Z",
+      "lastActivity": "2026-06-22T14:28:01.706Z"
+    },
+    {
+      "id": "152286890315905@lid",
+      "msg": 9,
+      "cmd": 0,
+      "figu": 3,
+      "pushname": "Carvalho",
+      "firstSeen": "2026-06-17T20:35:11.256Z",
+      "lastActivity": "2026-06-23T02:10:41.911Z"
+    },
+    {
+      "id": "86338137280762@lid",
+      "msg": 8,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "vitoria",
+      "firstSeen": "2026-06-17T20:36:53.102Z",
+      "lastActivity": "2026-06-17T20:41:22.552Z"
+    },
+    {
+      "id": "64571276533875@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Vitoria",
+      "firstSeen": "2026-06-18T00:11:11.479Z",
+      "lastActivity": "2026-06-18T00:11:11.479Z"
+    },
+    {
+      "id": "276897229475881@lid",
+      "msg": 3,
+      "cmd": 0,
+      "figu": 4,
+      "pushname": "silvahz💤",
+      "firstSeen": "2026-06-18T09:25:53.120Z",
+      "lastActivity": "2026-06-25T00:38:56.919Z"
+    },
+    {
+      "id": "83142681583785@lid",
+      "msg": 140,
+      "cmd": 2,
+      "figu": 49,
+      "pushname": "𝐬𝐫𝐭𝐚. 𝐰𝐡𝐢𝐧𝐜𝐡𝐞𝐬𝐭𝐞𝐫 'ɭ.ﻉ\nㅤ \nㅤ\nㅤ\nㅤ\nㅤ\nㅤ\nㅤ\nㅤ\nㅤ\nㅤ\nㅤ\nㅤ\nㅤ\nㅤ\n\nㅤ\nㅤ\nㅤ\nㅤ",
+      "firstSeen": "2026-06-19T03:07:54.643Z",
+      "lastActivity": "2026-07-21T14:19:57.214Z"
+    },
+    {
+      "id": "279551351468195@lid",
+      "msg": 3,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Alan Felipe",
+      "firstSeen": "2026-06-19T03:08:48.543Z",
+      "lastActivity": "2026-06-19T03:09:52.076Z"
+    },
+    {
+      "id": "218781674668277@lid",
+      "msg": 19,
+      "cmd": 10,
+      "figu": 8,
+      "pushname": "Th",
+      "firstSeen": "2026-06-19T03:32:29.257Z",
+      "lastActivity": "2026-06-30T03:58:39.667Z"
+    },
+    {
+      "id": "147313670492328@lid",
+      "msg": 21,
+      "cmd": 0,
+      "figu": 19,
+      "pushname": "𝕷.𝕰𝔎𝔥𝔞𝔩𝔦𝔣𝔞𝔡𝔞",
+      "firstSeen": "2026-06-19T18:01:57.808Z",
+      "lastActivity": "2026-07-18T19:04:25.884Z"
+    },
+    {
+      "id": "92836489875597@lid",
+      "msg": 6,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "ketlyn",
+      "firstSeen": "2026-06-20T18:10:21.901Z",
+      "lastActivity": "2026-06-20T20:07:59.554Z"
+    },
+    {
+      "id": "191912241811457@lid",
+      "msg": 53,
+      "cmd": 0,
+      "figu": 36,
+      "pushname": "Kauan",
+      "firstSeen": "2026-06-22T15:44:59.450Z",
+      "lastActivity": "2026-06-27T01:28:03.379Z"
+    },
+    {
+      "id": "23627353325784@lid",
+      "msg": 14,
+      "cmd": 0,
+      "figu": 2,
+      "pushname": "poroki",
+      "firstSeen": "2026-06-23T02:14:37.365Z",
+      "lastActivity": "2026-06-24T22:51:04.386Z"
+    },
+    {
+      "id": "152080513765419@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 3,
+      "pushname": "Tavim Zs",
+      "firstSeen": "2026-06-25T00:42:23.950Z",
+      "lastActivity": "2026-07-21T01:55:54.399Z"
+    },
+    {
+      "id": "253682696364236@lid",
+      "msg": 77,
+      "cmd": 0,
+      "figu": 8,
+      "pushname": "Iago 🤙🏻",
+      "firstSeen": "2026-06-27T00:55:10.266Z",
+      "lastActivity": "2026-06-27T01:13:52.073Z"
+    },
+    {
+      "id": "98858084388864@lid",
+      "msg": 54,
+      "cmd": 0,
+      "figu": 23,
+      "pushname": "oliveirazr",
+      "firstSeen": "2026-06-27T00:56:28.483Z",
+      "lastActivity": "2026-06-27T01:27:14.174Z"
+    },
+    {
+      "id": "228449713172660@lid",
+      "msg": 2,
+      "cmd": 5,
+      "figu": 0,
+      "pushname": "Ígor",
+      "firstSeen": "2026-06-28T15:42:02.315Z",
+      "lastActivity": "2026-06-28T15:54:58.316Z"
+    },
+    {
+      "id": "54774456131768@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Eve",
+      "firstSeen": "2026-07-16T20:31:54.555Z",
+      "lastActivity": "2026-07-16T20:31:54.555Z"
+    },
+    {
+      "id": "90220804485315@lid",
+      "msg": 68,
+      "cmd": 0,
+      "figu": 24,
+      "pushname": "𝐆𝐇𝐎𝐒𝐓𝐅𝐀𝐂𝐄",
+      "firstSeen": "2026-07-16T20:31:54.576Z",
+      "lastActivity": "2026-07-21T10:00:42.171Z"
+    },
+    {
+      "id": "101490714775573@lid",
+      "msg": 159,
+      "cmd": 0,
+      "figu": 46,
+      "pushname": "Pk✌️",
+      "firstSeen": "2026-07-16T20:32:15.592Z",
+      "lastActivity": "2026-07-22T18:39:30.593Z"
+    },
+    {
+      "id": "241613938921638@lid",
+      "msg": 120,
+      "cmd": 0,
+      "figu": 46,
+      "pushname": "Eloisa",
+      "firstSeen": "2026-07-16T22:13:50.195Z",
+      "lastActivity": "2026-07-22T17:43:06.697Z"
+    },
+    {
+      "id": "281303899484345@lid",
+      "msg": 47,
+      "cmd": 0,
+      "figu": 2,
+      "pushname": "vulgo tal de perna",
+      "firstSeen": "2026-07-16T22:14:16.124Z",
+      "lastActivity": "2026-07-20T20:17:24.428Z"
+    },
+    {
+      "id": "53193539064026@lid",
+      "msg": 14,
+      "cmd": 0,
+      "figu": 11,
+      "pushname": "｡˚༷￫ 🌙ꪾ〬ꩌ۪٬ Giih",
+      "firstSeen": "2026-07-16T22:17:27.498Z",
+      "lastActivity": "2026-07-22T03:25:37.699Z"
+    },
+    {
+      "id": "228771886039138@lid",
+      "msg": 5,
+      "cmd": 0,
+      "figu": 2,
+      "pushname": "agatha",
+      "firstSeen": "2026-07-16T22:37:59.697Z",
+      "lastActivity": "2026-07-16T22:52:02.999Z"
+    },
+    {
+      "id": "158351233159344@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "JV~",
+      "firstSeen": "2026-07-19T01:41:39.582Z",
+      "lastActivity": "2026-07-19T01:41:39.582Z"
+    },
+    {
+      "id": "90985191186652@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "😍 DRICA 🥰",
+      "firstSeen": "2026-07-20T01:35:42.608Z",
+      "lastActivity": "2026-07-22T12:10:46.697Z"
+    },
+    {
+      "id": "30714032599175@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Kemilly",
+      "firstSeen": "2026-07-20T14:13:58.767Z",
+      "lastActivity": "2026-07-20T14:13:58.767Z"
+    },
+    {
+      "id": "77288657920061@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Eduardo ribeiro",
+      "firstSeen": "2026-07-20T17:14:05.058Z",
+      "lastActivity": "2026-07-20T17:14:05.058Z"
+    }
+  ],
+  "bemvindo": true,
+  "exit": {
+    "enabled": true
+  },
+  "antilinkgp": true,
+  "antipagamento": true,
+  "afkUsers": {}
+}

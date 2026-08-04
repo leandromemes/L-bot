@@ -1,0 +1,11 @@
+@'
+node_modules/
+temp/
+*.log
+.env
+session/
+auth_info/
+creds.json
+serviceAccountKey.json
+tokens.json
+'@ | Out-File -Encoding utf8 .gitignore

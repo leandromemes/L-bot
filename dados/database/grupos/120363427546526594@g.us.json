@@ -1,0 +1,119 @@
+{
+  "mark": {},
+  "createdAt": "2026-06-07T16:16:25.445Z",
+  "groupName": "Os +mídia 2.0",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "25886472585277@lid",
+      "msg": 61,
+      "cmd": 7,
+      "figu": 17,
+      "pushname": "Dev soberano",
+      "firstSeen": "2026-06-07T16:16:25.455Z",
+      "lastActivity": "2026-06-08T01:07:46.525Z"
+    },
+    {
+      "id": "118215250337794@lid",
+      "msg": 36,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "Japa🫦",
+      "firstSeen": "2026-06-07T16:19:18.296Z",
+      "lastActivity": "2026-06-08T01:04:11.258Z"
+    },
+    {
+      "id": "182665495978188@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "pitbuul",
+      "firstSeen": "2026-06-07T16:21:21.522Z",
+      "lastActivity": "2026-06-07T16:22:56.001Z"
+    },
+    {
+      "id": "188807014015030@lid",
+      "msg": 61,
+      "cmd": 0,
+      "figu": 24,
+      "pushname": "Thomas",
+      "firstSeen": "2026-06-07T16:25:47.978Z",
+      "lastActivity": "2026-06-08T01:36:19.194Z"
+    },
+    {
+      "id": "276897229475881@lid",
+      "msg": 21,
+      "cmd": 0,
+      "figu": 2,
+      "pushname": "Silva",
+      "firstSeen": "2026-06-07T16:32:40.492Z",
+      "lastActivity": "2026-06-08T00:18:36.971Z"
+    },
+    {
+      "id": "23227770396824@lid",
+      "msg": 47,
+      "cmd": 0,
+      "figu": 14,
+      "pushname": "Esdras",
+      "firstSeen": "2026-06-07T17:14:54.563Z",
+      "lastActivity": "2026-06-08T01:44:24.036Z"
+    },
+    {
+      "id": "190890140254224@lid",
+      "msg": 8,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Gustavo Henrique Santos L",
+      "firstSeen": "2026-06-07T17:24:39.594Z",
+      "lastActivity": "2026-06-07T17:39:07.331Z"
+    },
+    {
+      "id": "105274681602280@lid",
+      "msg": 62,
+      "cmd": 3,
+      "figu": 7,
+      "pushname": "fefe",
+      "firstSeen": "2026-06-07T18:16:45.511Z",
+      "lastActivity": "2026-06-08T01:44:29.650Z"
+    },
+    {
+      "id": "116948268540100@lid",
+      "msg": 7,
+      "cmd": 0,
+      "figu": 3,
+      "pushname": "✩",
+      "firstSeen": "2026-06-07T23:28:08.014Z",
+      "lastActivity": "2026-06-08T00:05:53.811Z"
+    },
+    {
+      "id": "192960448725177@lid",
+      "msg": 12,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "𝒸𝒶𝓇𝓁𝑜𝓈 𝑒𝒹𝓊𝒶𝓇𝒹𝑜",
+      "firstSeen": "2026-06-07T23:43:44.490Z",
+      "lastActivity": "2026-06-08T01:42:54.245Z"
+    },
+    {
+      "id": "218713307521249@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Gótica Rabuda",
+      "firstSeen": "2026-06-08T01:06:37.089Z",
+      "lastActivity": "2026-06-08T01:08:39.698Z"
+    }
+  ],
+  "autorepo": true,
+  "modobrincadeira": true,
+  "afkUsers": {}
+}

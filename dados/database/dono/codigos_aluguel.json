@@ -1,0 +1,21 @@
+{
+  "codes": {
+    "7FD1908D": {
+      "duration": 15,
+      "targetGroup": null,
+      "used": true,
+      "usedBy": "240041947357401@lid",
+      "usedAt": "2026-03-24T17:04:23.442Z",
+      "createdAt": "2026-03-24T17:03:37.962Z",
+      "activatedGroup": "120363400498040128@g.us"
+    },
+    "6C4552D4": {
+      "duration": 24,
+      "targetGroup": null,
+      "used": false,
+      "usedBy": null,
+      "usedAt": null,
+      "createdAt": "2026-05-19T21:25:06.440Z"
+    }
+  }
+}

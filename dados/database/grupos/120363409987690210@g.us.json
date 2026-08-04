@@ -1,0 +1,70 @@
+{
+  "mark": {},
+  "createdAt": "2026-06-07T15:40:54.843Z",
+  "groupName": "Meus bots",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "25886472585277@lid",
+      "msg": 604,
+      "cmd": 181,
+      "figu": 11,
+      "pushname": "༄ Đev Šoberano ×͜×",
+      "firstSeen": "2026-06-07T15:40:54.853Z",
+      "lastActivity": "2026-08-03T17:41:39.895Z"
+    },
+    {
+      "id": "218713307521249@lid",
+      "msg": 628,
+      "cmd": 0,
+      "figu": 11,
+      "pushname": "Gotica Rabuda",
+      "firstSeen": "2026-06-13T00:51:02.512Z",
+      "lastActivity": "2026-08-03T17:41:51.647Z"
+    },
+    {
+      "id": "106176591192110@lid",
+      "msg": 19,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Iori Yagami",
+      "firstSeen": "2026-07-06T00:59:03.472Z",
+      "lastActivity": "2026-07-22T17:30:31.664Z"
+    },
+    {
+      "id": "137916449857577@lid",
+      "msg": 117,
+      "cmd": 4,
+      "figu": 0,
+      "pushname": "L bot",
+      "firstSeen": "2026-07-24T02:49:32.625Z",
+      "lastActivity": "2026-08-03T17:41:50.583Z"
+    },
+    {
+      "id": "42907562184943@lid",
+      "msg": 104,
+      "cmd": 1,
+      "figu": 0,
+      "pushname": "Leandro",
+      "firstSeen": "2026-07-30T14:48:51.725Z",
+      "lastActivity": "2026-08-02T19:13:14.264Z"
+    }
+  ],
+  "schedule": {},
+  "autorepo": true,
+  "antipagamento": true,
+  "modobrincadeira": true,
+  "bemvindo": true,
+  "exit": {
+    "enabled": true
+  }
+}
