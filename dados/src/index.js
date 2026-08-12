@@ -19971,7 +19971,7 @@ case 'commands':
             isForwarded: true,
             forwardingScore: 1,
             forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363405588045392@newsletter',
+                newsletterJid: '120363424960344776@newsletter',
                 newsletterName: '༄ Đev Šoberano ×͜×',
                 serverMessageId: 0
             }
@@ -20028,7 +20028,7 @@ case 'changers':
                 forwardingScore: 1,
                 // Ativando o botão de acesso ao canal
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363405588045392@newsletter',
+                    newsletterJid: '120363424960344776@newsletter',
                     newsletterName: '༄ Đev Šoberano ×͜×',
                     serverMessageId: 0
                 }
@@ -20059,7 +20059,7 @@ case 'menuias':
                 forwardingScore: 1,
                 // O bloco que garante o botão "Ver Canal"
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363405588045392@newsletter',
+                    newsletterJid: '120363424960344776@newsletter',
                     newsletterName: '༄ Đev Šoberano ×͜×',
                     serverMessageId: 0
                 }
@@ -20089,7 +20089,7 @@ case 'menulogos':
                 forwardingScore: 1,
                 // Ativando o botão de acesso ao canal
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363405588045392@newsletter',
+                    newsletterJid: '120363424960344776@newsletter',
                     newsletterName: '༄ Đev Šoberano ×͜×',
                     serverMessageId: 0
                 }
@@ -20121,7 +20121,7 @@ case 'gamemenu':
                 forwardingScore: 1,
                 // O segredo do botão do canal aqui:
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363405588045392@newsletter',
+                    newsletterJid: '120363424960344776@newsletter',
                     newsletterName: '༄ Đev Šoberano ×͜×',
                     serverMessageId: 0
                 }
@@ -20154,7 +20154,7 @@ case 'downloadmenu':
                 forwardingScore: 1,
                 // O bloco que ativa o botão "Ver Canal"
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363405588045392@newsletter',
+                    newsletterJid: '120363424960344776@newsletter',
                     newsletterName: '༄ Đev Šoberano ×͜×',
                     serverMessageId: 0
                 }
@@ -20187,7 +20187,7 @@ case 'tools':
                 forwardingScore: 1,
                 // Selo e botão do canal
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363405588045392@newsletter',
+                    newsletterJid: '120363424960344776@newsletter',
                     newsletterName: '༄ Đev Šoberano ×͜×',
                     serverMessageId: 0
                 }
@@ -20227,7 +20227,7 @@ case 'admmenu':
                 isForwarded: true,
                 forwardingScore: 1,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363405588045392@newsletter',
+                    newsletterJid: '120363424960344776@newsletter',
                     newsletterName: '༄ Đev Šoberano ×͜×',
                     serverMessageId: 0
                 }
@@ -20267,7 +20267,7 @@ case 'membermenu':
                 forwardingScore: 1,
                 // ESSE É O BLOCO QUE FAZ O BOTÃO DO CANAL APARECER:
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363405588045392@newsletter',
+                    newsletterJid: '120363424960344776@newsletter',
                     newsletterName: '༄ Đev Šoberano ×͜×',
                     serverMessageId: 0
                 }
