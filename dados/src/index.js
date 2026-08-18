@@ -27172,6 +27172,98 @@ case 'gamemode':
     await reply("❌ Ocorreu um erro interno. Tente novamente em alguns minutos.");
     }
        break;
+case 'antiroubo':
+case 'antitheft':
+  try {
+    if (!isGroup) return reply("isso só pode ser usado em grupo 💔");
+    
+    // Verifica se é Admin ou se é o Dono (Soberano)
+    if (!isGroupAdmin && !isOwner) return reply("você precisa ser adm ou meu mestre para configurar isso 💔");
+
+    const groupFilePath = buildGroupFilePath(from);
+
+    // Garantir que a estrutura do antiroubo exista no JSON do grupo
+    if (!groupData.antiroubo || typeof groupData.antiroubo !== 'object') {
+      groupData.antiroubo = { active: false, permitidos: [] };
+    }
+    if (!Array.isArray(groupData.antiroubo.permitidos)) {
+      groupData.antiroubo.permitidos = [];
+    }
+
+    const subCommand = (args[0] || '').toLowerCase();
+
+    // --- 1. LIGAR ---
+    if (subCommand === 'on' || subCommand === '1') {
+      groupData.antiroubo.active = true;
+      writeJsonFile(groupFilePath, groupData);
+      return reply("✅ *Anti-roubo ativado!* Alterações não autorizadas de administradores serão revertidas automaticamente.");
+    }
+
+    // --- 2. DESLIGAR ---
+    if (subCommand === 'off' || subCommand === '0') {
+      groupData.antiroubo.active = false;
+      writeJsonFile(groupFilePath, groupData);
+      return reply("❌ *Anti-roubo desativado!*");
+    }
+
+    // --- 3. PERMITIR USUÁRIO ---
+    if (subCommand === 'permitir' || subCommand === 'add') {
+      // Pega o alvo de forma correta no padrão Nazuna/Takeshi
+      const quotedPart = info.message?.extendedTextMessage?.contextInfo?.participant;
+      const mentionedPart = info.message?.extendedTextMessage?.contextInfo?.mentionedJid?.[0];
+      const alvo = quotedPart || mentionedPart || null;
+
+      if (!alvo) return reply("❌ Marque ou responda a mensagem de quem você deseja permitir!");
+
+      if (groupData.antiroubo.permitidos.includes(alvo)) {
+        return reply("⚠️ Esta pessoa já está na lista de permitidos!");
+      }
+
+      groupData.antiroubo.permitidos.push(alvo);
+      writeJsonFile(groupFilePath, groupData);
+
+      return reply(`✅ *@${alvo.split('@')[0]}* agora tem permissão para mexer nos cargos.`, { mentions: [alvo] });
+    }
+
+    // --- 4. REMOVER USUÁRIO ---
+    if (subCommand === 'remover' || subCommand === 'del') {
+      const quotedPart = info.message?.extendedTextMessage?.contextInfo?.participant;
+      const mentionedPart = info.message?.extendedTextMessage?.contextInfo?.mentionedJid?.[0];
+      const alvo = quotedPart || mentionedPart || null;
+
+      if (!alvo) return reply("❌ Marque ou responda a mensagem de quem você deseja remover!");
+
+      if (!groupData.antiroubo.permitidos.includes(alvo)) {
+        return reply("⚠️ Esta pessoa não está na lista!");
+      }
+
+      groupData.antiroubo.permitidos = groupData.antiroubo.permitidos.filter(id => id !== alvo);
+      writeJsonFile(groupFilePath, groupData);
+
+      return reply(`✅ *@${alvo.split('@')[0]}* foi removido da lista de permissões.`, { mentions: [alvo] });
+    }
+
+    // --- 5. MENU INICIAL ---
+    const status = groupData.antiroubo.active ? "🟢 Ativado" : "🔴 Desativado";
+    const qtdPermitidos = groupData.antiroubo.permitidos.length;
+
+    let txt = `🔒 *CONFIGURAÇÃO ANTI-ROUBO* 🔒\n\n`;
+    txt += `Status atual: *${status}*\n`;
+    txt += `Pessoas autorizadas: *${qtdPermitidos}*\n\n`;
+    txt += `*Comandos disponíveis:*\n`;
+    txt += `• *${prefix}antiroubo on* — Ativar\n`;
+    txt += `• *${prefix}antiroubo off* — Desativar\n`;
+    txt += `• *${prefix}antiroubo permitir* — Autoriza alguém\n`;
+    txt += `• *${prefix}antiroubo remover* — Revoga autorização`;
+
+    return reply(txt);
+
+  } catch (e) {
+    console.error("ERRO NO ANTI-ROUBO:", e);
+    reply("❌ Ocorreu um erro ao processar o comando.");
+  }
+  break;
+
 case 'bemvindo':
 case 'bv':
 case 'boasvindas':

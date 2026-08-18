@@ -756,31 +756,97 @@ if (groupSettings?.x9 && inf.author && !entradaPorLink) {
                 break;
             }
 
-            case 'promote':
-            case 'demote': {
+case 'promote':
+case 'demote': {
+    // 1. Identificação do Autor (quem fez a ação)
+    // Se não houver autor, é uma ação do sistema ou do próprio bot
+    const quemExecutouRaw = inf.author || NazunaSock.user?.id || '';
+    if (!quemExecutouRaw) break;
 
-                if (!groupSettings?.x9) return;
+    // Função de higienização ultra-segura
+    const extrairDigitos = (str) => {
+        if (!str) return '';
+        return str.split('@')[0].split(':')[0].replace(/\D/g, '');
+    };
 
-                const autor = inf.author || '';
+    const autorNum = extrairDigitos(quemExecutouRaw);
+    const botJid = extrairDigitos(NazunaSock.user?.id);
+    const botLid = extrairDigitos(NazunaSock.user?.lid);
+    const ownerNum = extrairDigitos(numerodono);
+    const ownerLidNum = extrairDigitos(config?.lidowner);
 
-                for (const user of inf.participants) {
+    // 2. Trava de Segurança: O Bot nunca deve agir contra si mesmo ou contra o Dono
+    const isBot = autorNum === botJid || (botLid && autorNum === botLid);
+    const isOwner = (ownerNum && autorNum === ownerNum) || (ownerLidNum && autorNum === ownerLidNum);
 
-                    const userNum = user.split('@')[0];
-                    const autorNum = autor ? autor.split('@')[0] : 'desconhecido';
+    // Se o autor for o próprio bot ou um dos donos, encerra aqui (Isento)
+    if (isBot || isOwner) break;
 
-                    const texto =
-                        inf.action === 'promote'
-                            ? `⬆️ @${userNum} virou ADM por @${autorNum}`
-                            : `⬇️ @${userNum} deixou de ser ADM por @${autorNum}`;
+    // ==========================================
+    // 1. SISTEMA ANTI-ROUBO
+    // ==========================================
+    if (groupSettings?.antiroubo?.active) {
+        // Lista de admins permitidos a mexer nos cargos
+        const permitidos = (groupSettings.antiroubo.permitidos || []).map(p => extrairDigitos(p));
+        const isPermitido = permitidos.includes(autorNum);
 
-                    await NazunaSock.sendMessage(from, {
-                        text: texto,
-                        mentions: autor ? [user, autor] : [user]
-                    }).catch(() => { });
-                }
+        if (!isPermitido) {
+            const alvoRaw = inf.participants[0] || '';
+            if (!alvoRaw) break;
 
-                break;
+            const alvoNum = extrairDigitos(alvoRaw);
+
+            // Proteção Extra: Se o alvo da ação for o Bot ou o Dono, reverte e pune o executor na hora
+            const alvoIsDonoOuBot = alvoNum === botJid || alvoNum === botLid || alvoNum === ownerNum || alvoNum === ownerLidNum;
+
+            const acaoTexto = inf.action === 'promote' ? 'promover' : 'rebaixar';
+            const acaoRevertida = inf.action === 'promote' ? 'promovido' : 'rebaixado';
+
+            // --- EXECUÇÃO DA REVERSÃO ---
+            try {
+                // 1. Rebaixa o executor infrator primeiro (para ele não fazer mais nada)
+                await NazunaSock.groupParticipantsUpdate(from, [quemExecutouRaw], 'demote');
+                
+                // 2. Reverte a ação no alvo
+                const acaoReverter = inf.action === 'promote' ? 'demote' : 'promote';
+                await NazunaSock.groupParticipantsUpdate(from, [alvoRaw], acaoReverter);
+
+                // 3. Envia o alerta
+                const msgAlerta = `🔒 *ANTI-ROUBO:* @${autorNum} tentou ${acaoTexto} @${alvoNum} sem permissão.\n\n⚠️ *Punição:* Executor rebaixado e ação revertida.`;
+                
+                await NazunaSock.sendMessage(from, {
+                    text: msgAlerta,
+                    mentions: [quemExecutouRaw, alvoRaw]
+                });
+
+            } catch (err) {
+                console.error('[ANTI-ROUBO] Erro ao punir:', err.message);
             }
+            
+            return; // Interrompe para não disparar o X9
+        }
+    }
+
+    // ==========================================
+    // 2. SISTEMA X9 (Apenas se o Anti-Roubo não disparou)
+    // ==========================================
+    if (groupSettings?.x9) {
+        for (const userRaw of inf.participants) {
+            const userNum = extrairDigitos(userRaw);
+            const texto = inf.action === 'promote'
+                ? `⬆️ @${userNum} foi promovido por @${autorNum}`
+                : `⬇️ @${userNum} foi rebaixado por @${autorNum}`;
+
+            await NazunaSock.sendMessage(from, {
+                text: texto,
+                mentions: [userRaw, quemExecutouRaw]
+            }).catch(() => {});
+        }
+    }
+    break;
+}
+
+
         }
 
     } catch (error) {
@@ -1447,8 +1513,8 @@ async function createBotSocket(authDir) {
                 console.log('🆔 Group ID:', inf.id || inf.jid || 'unknown');
                 console.log('⚡ Action:', inf.action);
                 console.log('👥 Participants:', inf.participants);
-                console.log('� Author:', inf.author || 'N/A');
-                console.log('�📦 Full event data:', JSON.stringify(inf, null, 2));
+                console.log('👮 Author:', inf.author || 'N/A');
+                console.log('📦 Full event data:', JSON.stringify(inf, null, 2));
                 console.log('🐛 ================================================\n');
             }
             await handleGroupParticipantsUpdate(NazunaSock, inf);

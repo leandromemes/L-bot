@@ -1,7 +1,7 @@
 {
   "mark": {},
   "createdAt": "2026-06-07T15:40:54.843Z",
-  "groupName": "Meus bots",
+  "groupName": "Meus bots 1",
   "modorpg": false,
   "minMessage": null,
   "moderators": [],
@@ -15,12 +15,12 @@
   "contador": [
     {
       "id": "25886472585277@lid",
-      "msg": 604,
-      "cmd": 181,
+      "msg": 607,
+      "cmd": 187,
       "figu": 11,
       "pushname": "༄ Đev Šoberano ×͜×",
       "firstSeen": "2026-06-07T15:40:54.853Z",
-      "lastActivity": "2026-08-03T17:41:39.895Z"
+      "lastActivity": "2026-08-16T19:54:32.589Z"
     },
     {
       "id": "218713307521249@lid",
@@ -57,6 +57,15 @@
       "pushname": "Leandro",
       "firstSeen": "2026-07-30T14:48:51.725Z",
       "lastActivity": "2026-08-02T19:13:14.264Z"
+    },
+    {
+      "id": "151037558177863@lid",
+      "msg": 18,
+      "cmd": 14,
+      "figu": 0,
+      "pushname": "L bot",
+      "firstSeen": "2026-08-16T17:46:11.256Z",
+      "lastActivity": "2026-08-16T19:34:29.661Z"
     }
   ],
   "schedule": {},
@@ -66,5 +75,11 @@
   "bemvindo": true,
   "exit": {
     "enabled": true
+  },
+  "antiroubo": {
+    "active": true,
+    "permitidos": [
+      "151037558177863@lid"
+    ]
   }
 }
