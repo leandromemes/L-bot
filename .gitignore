@@ -1,11 +1,9 @@
-@'
-node_modules/
+﻿node_modules/
 temp/
 *.log
 .env
-dados\database\qr-code
+dados/database/qr-code/
 auth_info/
 creds.json
 serviceAccountKey.json
 tokens.json
-'@ | Out-File -Encoding utf8 .gitignore
