@@ -3,7 +3,7 @@ node_modules/
 temp/
 *.log
 .env
-session/
+dados\database\qr-code
 auth_info/
 creds.json
 serviceAccountKey.json
