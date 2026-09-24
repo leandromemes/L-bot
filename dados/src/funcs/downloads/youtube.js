@@ -1,16 +1,18 @@
 /**
  * YouTube.js - Versão Blindada Soberano 👑
  * Local: dados/src/funcs/downloads/YouTube.js
- * INTEGRAÇÃO TOTAL: Spider-X (Paga) + Fallback Seguro
+ * INTEGRAÇÃO TOTAL: API Dev Soberano + Fallback Seguro
+ * @author ༄ Đev Šoberano ×͜×
+ * @link https://github.com/leandromemes
+ * @project Gotica Bot
  */
 
 import yts from 'yt-search';
 import axios from 'axios';
 
 const CONFIG = {
-    API_PLAY: 'https://api.spiderx.com.br/api/downloads/play-audio',
-    API_LINK: 'https://api.spiderx.com.br/api/downloads/yt-mp3',
-    SPIDER_KEY: '3edfB5m8XuOFVPijpgGE', 
+    API_URL: 'https://api.devsoberano.com',
+    API_KEY: 'sb_bot_gotica_8f9a2b',
     API_FREE: 'https://api.vreden.my.id/api/ytmp3?url=',
     TIMEOUT: 60000,
     USER_AGENT: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
@@ -60,19 +62,21 @@ export async function mp3(url_or_query) {
             if (!s.ok) return s;
         }
 
-        const queryFinal = isUrl ? url_or_query : s.data.title;
-        const endpoint = isUrl ? CONFIG.API_LINK : CONFIG.API_PLAY;
-        const param = isUrl ? 'url' : 'search';
+        const queryFinal = isUrl ? url_or_query : s.data.url;
 
-        // --- TENTATIVA 1: SPIDER-X ---
+        // --- TENTATIVA 1: API DEV SOBERANO ---
         try {
-            console.log(`🚀 Spider-X: Solicitando via ${param}...`);
-            const resSpider = await axios.get(`${endpoint}?${param}=${encodeURIComponent(queryFinal)}&api_key=${CONFIG.SPIDER_KEY}`, { 
+            console.log(`🚀 Dev Soberano API: Solicitando áudio...`);
+            const resSoberano = await axios.get(`${CONFIG.API_URL}/api/downloads/ytmp3`, {
+                params: {
+                    url: queryFinal,
+                    apikey: CONFIG.API_KEY
+                },
                 timeout: CONFIG.TIMEOUT 
             });
             
-            const result = resSpider.data;
-            const downloadUrl = result?.url;
+            const result = resSoberano.data;
+            const downloadUrl = result?.url || result?.result?.url || result?.download;
 
             if (downloadUrl) {
                 const buffer = await getBuffer(downloadUrl);
@@ -83,16 +87,16 @@ export async function mp3(url_or_query) {
                         filename: `${(result.title || s.data?.title || 'audio').replace(/[^\w\s]/gi, '')}.mp3`, 
                         title: result.title || s.data?.title || 'YouTube Audio', 
                         thumbnail: result.thumbnail || s.data?.thumbnail || '',
-                        author: result.channel?.name || s.data?.author || 'YouTube',
+                        author: result.channel || s.data?.author || 'YouTube',
                         videoId: s.data?.videoId || ''
                     };
                 }
             }
         } catch (e) {
-            console.log(`⚠️ Spider-X falhou: ${e.message}. Indo para reserva.`);
+            console.log(`⚠️ Dev Soberano API falhou: ${e.message}. Indo para reserva.`);
         }
 
-        // --- TENTATIVA 2: API FREE (Só se tiver a URL do vídeo) ---
+        // --- TENTATIVA 2: API FREE (Fallback) ---
         const videoUrl = isUrl ? url_or_query : s.data?.url;
         if (videoUrl) {
             try {
