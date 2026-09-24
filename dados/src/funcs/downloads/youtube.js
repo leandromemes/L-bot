@@ -1,13 +1,13 @@
 /**
  * YouTube.js - Versão Blindada Soberano 👑
  * Local: dados/src/funcs/downloads/youtube.js
- * INTEGRAÇÃO TOTAL: API Própria (Dev Soberano) + Fallback Seguro
+ * INTEGRAÇÃO TOTAL: API Própria (Dev Soberano) + Fallback Seguro (Axios)
  * @author ༄ Đev Šoberano ×͜×
  * @link https://github.com/leandromemes
  * @project Gotica Bot
  */
 
-import fetch from 'node-fetch';
+import axios from 'axios';
 import fs from 'fs';
 import yts from 'yt-search';
 
@@ -21,10 +21,12 @@ const CONFIG = {
 
 async function getBuffer(url) {
     try {
-        const res = await fetch(url, { headers: { 'User-Agent': CONFIG.USER_AGENT }, timeout: 120000 });
-        if (!res.ok) return null;
-        const arrayBuffer = await res.arrayBuffer();
-        return Buffer.from(arrayBuffer);
+        const res = await axios.get(url, { 
+            responseType: 'arraybuffer', 
+            timeout: 120000,
+            headers: { 'User-Agent': CONFIG.USER_AGENT }
+        });
+        return Buffer.from(res.data);
     } catch (err) { 
         return null; 
     }
@@ -66,39 +68,44 @@ export async function mp3(url_or_query) {
         // --- TENTATIVA 1: API PRÓPRIA (DEV SOBERANO) ---
         try {
             console.log(`🚀 Dev Soberano API: Consultando /play...`);
-            const endpoint = `${CONFIG.API_URL}/play?search=${encodeURIComponent(queryFinal)}&apikey=${CONFIG.API_KEY}&api_key=${CONFIG.API_KEY}`;
+            const endpoint = `${CONFIG.API_URL}/play`;
             
-            const resApi = await fetch(endpoint, { timeout: CONFIG.TIMEOUT });
-            const contentType = resApi.headers.get("content-type");
+            const resApi = await axios.get(endpoint, {
+                params: {
+                    search: queryFinal,
+                    apikey: CONFIG.API_KEY,
+                    api_key: CONFIG.API_KEY
+                },
+                timeout: CONFIG.TIMEOUT,
+                headers: { 'User-Agent': CONFIG.USER_AGENT }
+            });
             
-            if (resApi.ok && contentType && contentType.includes("application/json")) {
-                const data = await resApi.json();
-                
-                if (data && (data.url || data.file)) {
-                    let audioBuffer = null;
-                    const caminhoLocal = data.file ? String(data.file).trim() : '';
+            const data = resApi.data;
+            
+            if (data && (data.url || data.file)) {
+                let audioBuffer = null;
+                const caminhoLocal = data.file ? String(data.file).trim() : '';
 
-                    if (caminhoLocal && fs.existsSync(caminhoLocal)) {
-                        audioBuffer = fs.readFileSync(caminhoLocal);
-                    } else if (data.url) {
-                        let urlDownload = data.url.trim();
-                        if (urlDownload.includes('localhost:3000')) {
-                            urlDownload = urlDownload.replace('http://localhost:3000', CONFIG.API_URL);
-                        }
-                        audioBuffer = await getBuffer(urlDownload);
+                if (caminhoLocal && fs.existsSync(caminhoLocal)) {
+                    audioBuffer = fs.readFileSync(caminhoLocal);
+                } else if (data.url) {
+                    let urlDownload = data.url.trim();
+                    if (urlDownload.includes('localhost:3000')) {
+                        urlDownload = urlDownload.replace('http://localhost:3000', CONFIG.API_URL);
                     }
+                    audioBuffer = await getBuffer(urlDownload);
+                }
 
-                    if (audioBuffer) {
-                        return { 
-                            ok: true, 
-                            buffer: audioBuffer, 
-                            filename: `${(data.title || videoData?.title || 'audio').replace(/[^\w\s]/gi, '')}.mp3`, 
-                            title: data.title || videoData?.title || 'YouTube Audio', 
-                            thumbnail: data.thumbnail || videoData?.thumbnail || '',
-                            author: data.channel?.name || videoData?.author || 'YouTube',
-                            videoId: videoData?.videoId || ''
-                        };
-                    }
+                if (audioBuffer) {
+                    return { 
+                        ok: true, 
+                        buffer: audioBuffer, 
+                        filename: `${(data.title || videoData?.title || 'audio').replace(/[^\w\s]/gi, '')}.mp3`, 
+                        title: data.title || videoData?.title || 'YouTube Audio', 
+                        thumbnail: data.thumbnail || videoData?.thumbnail || '',
+                        author: data.channel?.name || videoData?.author || 'YouTube',
+                        videoId: videoData?.videoId || ''
+                    };
                 }
             }
         } catch (e) {
@@ -109,8 +116,8 @@ export async function mp3(url_or_query) {
         const videoUrl = isUrl ? url_or_query : videoData?.url;
         if (videoUrl) {
             try {
-                const resFree = await fetch(`${CONFIG.API_FREE}${encodeURIComponent(videoUrl)}`, { timeout: 20000 });
-                const freeData = await resFree.json();
+                const resFree = await axios.get(`${CONFIG.API_FREE}${encodeURIComponent(videoUrl)}`, { timeout: 20000 });
+                const freeData = resFree.data;
                 const freeUrl = freeData?.result?.download?.url;
                 
                 if (freeUrl) {
